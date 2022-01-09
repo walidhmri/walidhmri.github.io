@@ -133,16 +133,16 @@
 
     // default example
     simplyCountdown('.simply-countdown-one', {
-        year: d.getFullYear(),
-        month: d.getMonth() + 1,
-        day: d.getDate()
+        year: d.getFullYear(2022),
+        month: d.getMonth(1) + 1,
+        day: d.getDate(20)
     });
 
     //jQuery example
     $('#simply-countdown-losange').simplyCountdown({
-        year: d.getFullYear(),
-        month: d.getMonth() + 1,
-        day: d.getDate(),
+        year: d.getFullYear(2022),
+        month: d.getMonth(1) + 1,
+        day: d.getDate(20),
         enableUtc: false
     });
 </script>
