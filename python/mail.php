@@ -17,7 +17,7 @@
 
         // Set the recipient email address.
         // Note:  Update this to your desired email address.
-        $recipient = "modinatheme@gmail.com";
+        $recipient = "whmri7@gmail.com";
 
         // Set the email subject.
         $subjectname = "New Contact from $name";
