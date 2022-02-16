@@ -1,0 +1,129 @@
+
+$font-poppins: "Poppins", sans-serif;
+$font-roboto: "Roboto", sans-serif;
+
+
+$color-primary: #6610f2;
+$color-primary-rgb: 102, 16, 242;
+$color-primary-contrast: #ffffff;
+$color-primary-contrast-rgb: 255, 255, 255;
+$color-primary-shade: #5a0ed5;
+$color-primary-tint: #7528f3;
+
+
+$color-secondary: #00a2f3;
+$color-secondary-rgb: 0, 162, 243;
+$color-secondary-contrast: #ffffff;
+$color-secondary-contrast-rgb: 255, 255, 255;
+$color-secondary-shade: #008fd6;
+$color-secondary-tint: #1aabf4;
+
+$color-tertiary: #5a49f8;
+$color-tertiary-rgb: 90, 73, 248;
+$color-tertiary-contrast: #ffffff;
+$color-tertiary-contrast-rgb: 255, 255, 255;
+$color-tertiary-shade: #4f40da;
+$color-tertiary-tint: #6b5bf9;
+
+
+$color-success: #20c997;
+$color-success-rgb: 32, 201, 151;
+$color-success-contrast: #000000;
+$color-success-contrast-rgb: 0, 0, 0;
+$color-success-shade: #1cb185;
+$color-success-tint: #36cea1;
+
+
+$color-warning: #ffce00;
+$color-warning-rgb: 255, 206, 0;
+$color-warning-contrast: #ffffff;
+$color-warning-contrast-rgb: 255, 255, 255;
+$color-warning-shade: #e0b500;
+$color-warning-tint: #ffd31a;
+
+
+$color-danger: #ff2929;
+$color-danger-rgb: 255, 41, 41;
+$color-danger-contrast: #ffffff;
+$color-danger-contrast-rgb: 255, 255, 255;
+$color-danger-shade: #e02424;
+$color-danger-tint: #ff3e3e;
+
+
+$color-pink: #ff3681;
+$color-pink-rgb: 255, 54, 129;
+$color-pink-contrast: #ffffff;
+$color-pink-contrast-rgb: 255, 255, 255;
+$color-pink-shade: #e03072;
+$color-pink-tint: #ff4a8e;
+
+
+$color-info: #62e1fb;
+$color-info-rgb: 98, 225, 251;
+$color-info-contrast: #000000;
+$color-info-contrast-rgb: 0, 0, 0;
+$color-info-shade: #56c6dd;
+$color-info-tint: #72e4fb;
+
+
+$color-dark: #332f3b;
+$color-dark-rgb: 51, 47, 59;
+$color-dark-contrast: #ffffff;
+$color-dark-contrast-rgb: 255, 255, 255;
+$color-dark-shade: #2d2934;
+$color-dark-tint: #47444f;
+
+
+$color-medium-dark: #554d63;
+$color-medium-dark-rgb: 85, 77, 99;
+$color-medium-dark-contrast: #ffffff;
+$color-medium-dark-contrast-rgb: 255, 255, 255;
+$color-medium-dark-shade: #4b4457;
+$color-medium-dark-tint: #665f73;
+
+
+$color-medium: #6a6377;
+$color-medium-rgb: 106, 99, 119;
+$color-medium-contrast: #ffffff;
+$color-medium-contrast-rgb: 255, 255, 255;
+$color-medium-shade: #5d5769;
+$color-medium-tint: #797385;
+
+
+$color-light: #eaeaea;
+$color-light-rgb: 234, 234, 234;
+$color-light-contrast: #000000;
+$color-light-contrast-rgb: 0, 0, 0;
+$color-light-shade: #cecece;
+$color-light-tint: #ececec;
+
+
+$color-white: #ffffff;
+$color-white-rgb: 255, 255, 255;
+$color-white-contrast: #000000;
+$color-white-contrast-rgb: 0, 0, 0;
+$color-white-shade: #e0e0e0;
+$color-white-tint: #ffffff;
+
+
+$color-faded: #f5f5f5;
+$color-thin: #fcfcfc;
+
+
+$breakpoint-xl: "only screen and (min-width:1200px)";
+
+$breakpoint-lg: "only screen and (min-width:992px) and (max-width:1199px)";
+
+$breakpoint-md: "only screen and (min-width:768px) and (max-width:991px)";
+
+$breakpoint-sm: "only screen and (min-width:576px) and (max-width:767px)";
+
+$breakpoint-xs: "only screen and (max-width:767px)";
+
+$breakpoint-xs-landscape: "only screen and (min-width:480px) and (max-width:767px)";
+
+$breakpoint-sm-down: '(max-width: 575.98px)';
+
+$breakpoint-md-dowwn: '(max-width: 991.98px)';
+
+$breakpoint-lg-down: '(max-width: 1199.98px)';
