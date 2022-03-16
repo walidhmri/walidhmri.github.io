@@ -1,0 +1,366 @@
+/****************************************
+download button
+****************************************/
+.download-button {
+    display: inline-block;
+    width: max-content;
+    padding: var(--border-width);
+    text-align: left;
+    @include border-radius;
+
+    &-group {
+        .download-button:not(:last-child) {
+            margin-right: 1.8rem;
+        }
+    }
+
+    &-group:not(.download-button-group-1) {
+        @media (max-width: 991px) {
+            .download-button {
+                margin-top: 1rem;
+            }
+    
+            margin-top: -1rem;
+        }
+    }
+
+    &-inner {
+        display: flex;
+        align-items: center;
+        padding: 1.8rem 3rem 1.6rem 3.4rem;
+
+        background-color: transparent;
+
+        position: relative;
+        overflow: hidden;
+
+        @include border-radius;
+
+        &::after {
+            content: '';
+            display: block;
+
+            width: 100%;
+            height: 100%;
+
+            position: absolute;
+            top: 0;
+            left: 0;
+            z-index: 1;
+
+            background-color: #fff;
+
+            @include animateIt(.4s, $timing_func: ease-in-out);
+        }
+    }    
+
+    &-icon {
+        position: relative;
+        z-index: 2;
+        i {
+            @include animateIt($delay: .1s);
+        }
+    }
+
+    &-content {
+        position: relative;
+        z-index: 2;
+        margin-left: 1.2rem;
+
+        h5 {
+            font-size: 1rem;
+            font-weight: 700;
+            margin: 0;
+            @include animateIt($delay: .1s);
+        }
+        h3 {
+            font-size: 2rem;
+            font-weight: 700;
+            margin: .3rem 0 0 0;
+            @include animateIt($delay: .1s);
+        }
+    }
+
+    &-google {
+        @include border-gradient(blue);
+        @include drop-shadow($color: var(--gradient-purple-1-rgba-1), $yOffset: 10px, $blurRadius: 10px);
+        .download-button-icon {
+            i {
+                font-size: 3.4rem;
+            }
+        }
+    }
+
+    &-apple {
+        @include border-gradient(pink);
+        @include drop-shadow($color: var(--pink-rgba-1), $yOffset: 10px, $blurRadius: 10px);
+        .download-button-icon {
+            i {
+                font-size: 4rem;
+            }
+        }
+    }
+
+    &:hover {
+        .download-button-inner {
+            &::after {
+                left: 100%;
+            }
+        }
+        .download-button-icon {
+            i {
+                color: #fff;
+            }
+        }
+        .download-button-content {
+            h3, h5 {
+                color: #fff;
+            }
+        }
+
+    }
+
+    &-1 {
+        padding: 0;
+        background: transparent;
+        -webkit-box-shadow: inset 0px 0px 0px var(--border-width) #FFFFFF; 
+                box-shadow: inset 0px 0px 0px var(--border-width) #FFFFFF;
+        .download-button-inner {
+            padding: 
+                calc(1.8rem + var(--border-width))
+                calc(3rem + var(--border-width))
+                calc(1.6rem + var(--border-width))
+                calc(3.4rem + var(--border-width));
+
+            &::after {
+                left: 100%;
+            }
+        }
+
+        .download-button-icon {
+            i {
+                color: #fff;
+            }
+        }
+        .download-button-content {
+            h3, h5 {
+                color: #fff;
+            }
+        }
+
+        &:hover {
+            .download-button-inner::after {
+                left: 0;
+            }
+
+            .download-button-icon {
+                i {
+                    color: unset;
+                }
+            }
+            .download-button-content {
+                h3 {
+                    color: $font-dark;
+                }
+                h5 {
+                    color: $font-grey;
+                }
+            }
+        }
+
+        &:not(:last-child) {
+            margin: 0 0 1rem 0 !important;
+        }
+
+        &-group {
+            display: flex;
+            flex-direction: column;
+            align-items: flex-end;
+            justify-content: center;
+            height: 100%;
+        }
+
+        @media (max-width: 991px) {
+            &-group {
+                flex-direction: row;
+                align-items: center;
+                flex-wrap: wrap;
+                
+                margin: 0 0 0 -2rem;
+            }
+
+            &,
+            &:not(:last-child) {
+                margin: 0 0 0 2rem !important;
+            }
+        }
+
+    }
+
+}
+
+/****************************************
+button
+****************************************/
+.button {
+    display: inline-block;
+    width: max-content;
+
+    background-color: #000;
+    border: none;
+
+    overflow: hidden;
+    
+    &-inner {
+        display: flex;
+        align-items: center;
+        padding: 1.9rem 5.6rem;
+
+        background-color: transparent;
+
+        position: relative;
+        overflow: hidden;
+
+        @include border-radius();
+
+        &::after {
+            content: '';
+            display: block;
+
+            width: 100%;
+            height: 100%;
+
+            position: absolute;
+            top: 0;
+            left: 0;
+            z-index: 1;
+
+            background-color: #fff;
+            @include animateIt(.4s, $timing_func: ease-in-out);
+        }
+    }
+
+    &-content {
+        position: relative;
+        z-index: 2;
+
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        i {
+            font-size: 1.5rem;
+            margin-right: .4rem;
+        }
+        
+        h4, .text {
+            font-size: 1.4rem;
+            font-weight: 700;
+            margin: .3rem 0 0 0;
+            @include animateIt($delay: .1s);
+
+            @media (max-width: 991px) {
+                font-size: 1.6rem;
+            }
+        }
+    }
+
+    &:hover {
+        .button-inner {
+            &::after {
+                left: 100%;
+            }
+        }
+
+        .button-content {
+            color: #fff;
+        }
+    }
+
+    &-1 {
+        background-color: transparent;
+        -webkit-box-shadow: inset 0px 0px 0px .3rem #FFFFFF; 
+                box-shadow: inset 0px 0px 0px .3rem #FFFFFF;
+
+        .button-inner {
+            &::after {
+                left: 100%;
+            }
+        }
+
+        .button-content {
+            color: #fff;
+        }
+
+        &:hover {
+            .button-inner {
+                &::after {
+                    left: 0;
+                }
+            }
+
+            .button-content {
+                color: var(--gradient-blue);
+            }
+        }
+    }
+
+    &-2 {
+        color: #fff;
+        @include border-gradient(blue, $deg: 270deg);
+        .button-inner {
+            &::after {
+                background-color: var(--gradient-purple);
+            }
+        }
+        @include drop-shadow($color: var(--gradient-purple-1-rgba-4), $yOffset: 10px, $blurRadius: 10px);
+    }
+
+    &-3 {
+        color: #fff;
+        @include border-gradient(pink-reverse);
+        .button-inner {
+            &::after {
+                background-color: var(--gradient-pink);
+            }
+        }
+        @include drop-shadow($color: var(--gradient-pink-1-rgba-4), $yOffset: 10px, $blurRadius: 10px);
+    }
+
+    &-basic {
+        color: #fff;
+        @include border-gradient(pink-1);
+        .button-inner {
+            &::after {
+                background-color: var(--gradient-pink-1);
+            }
+        }
+        @include drop-shadow($color: var(--gradient-pink-1-rgba-4), $yOffset: 10px, $blurRadius: 10px);
+    }
+
+
+    &-standard {
+        color: #fff;
+        @include border-gradient(pink);
+        .button-inner {
+            &::after {
+                background-color: var(--gradient-purple-1);
+            }
+        }
+        @include drop-shadow($color: var(--gradient-purple-1-rgba-4), $yOffset: 10px, $blurRadius: 10px);
+
+    }
+
+    &-premium {
+        color: #fff;
+        @include border-gradient(blue-1, 270deg);
+        .button-inner {
+            &::after {
+                background-color: var(--gradient-blue-1);
+            }
+        }
+        @include drop-shadow($color: var(--gradient-blue-1-rgba-4), $yOffset: 10px, $blurRadius: 10px);
+    }
+    
+    @include border-radius();
+}

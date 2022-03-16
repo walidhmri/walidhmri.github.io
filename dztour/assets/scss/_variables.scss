@@ -1,0 +1,63 @@
+$font-dark: #123769;
+$font-grey: #6a6f77;
+$font-grey-1: #666b6d;
+$font-blue: #5178e8;
+
+$color-green: #4defa1;
+$color-green-1: #00d8ab;
+$color-green-2: #81dfff;
+
+$color-red: #ff3759;
+$color-pink: #ff93f2;
+$color-pink-1: #efb2f7;
+
+$color-blue: #6ea5ef;
+$color-blue-1: #88b6fe;
+
+$color-grey: #cad1d4;
+$color-grey-1: #aab0b8;
+$color-grey-2: #e1e1ec;
+$color-grey-3: #e3e3ed;
+
+$color-purple-1: #ac9dfc;
+
+:root {
+    --gradient-purple: #999dfd;
+    --gradient-purple-rgb: rgb(153,157,253);
+    --gradient-purple-rgba: rgb(153,157,253, 1);
+    --gradient-purple-rgba-4: rgb(153,157,253, .4);
+
+    --gradient-purple-1: #8e8bf5;
+    --gradient-purple-1-rgba-4: rgb(142,139,245, .4);
+    --gradient-purple-1-rgba-2: rgb(142,139,245, .2);
+    --gradient-purple-1-rgba-1: rgb(142,139,245, .1);
+
+    --gradient-blue: #80e2ff;
+    --gradient-blue-rgba: rgba(128,226,255,1);
+    --gradient-blue-rgba-4: rgba(128,226,255,.4);
+
+    --gradient-blue-1: #5ed7fe;
+    --gradient-blue-1-rgba: rgba(94,215,254, 1);
+    --gradient-blue-1-rgba-4: rgba(94,215,254,.4);
+    --gradient-blue-1-rgba-2: rgba(94,215,254,.2);
+
+    --blue: #0072ff;
+    --blue-rgba-4: rgba(0,114,255,.4);
+    --blue-rgba-2: rgba(0,114,255,.2);
+    
+    --gradient-pink: #ffb7f6;
+    --gradient-pink-rgba: rgba(255,183,246,1);
+    --gradient-pink-rgba-4: rgba(255,183,246,.4);
+
+    --gradient-pink-1: #ff93f2;
+    --gradient-pink-1-rgba: rgba(255,147,242, 1);
+    --gradient-pink-1-rgba-4: rgba(255,147,242,.4);
+    --gradient-pink-1-rgba-2: rgba(255,147,242,.2);
+
+    --pink: #ff56ea;
+    --pink-rgba-1: rgba(255, 86, 234, .1);
+
+    --pink-1: #ff92f2;
+
+    --border-width: .3rem;
+}

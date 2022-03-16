@@ -1,0 +1,27 @@
+.cta-section {
+
+    .download-button-group {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        margin: 4.4rem auto 0 auto;
+        
+
+        @media (max-width: 991px) {
+            .download-button {
+                margin-top: 2rem;
+            }
+        }
+    }
+
+    @media (max-width: 991px) {
+        &-wrapper {
+            padding: 2rem 0 2rem 0;
+        }
+
+        .download-button-group {
+            margin: -1rem auto 0 auto;
+        }
+    }
+
+}
