@@ -1,0 +1,99 @@
+<!Doctype html>
+<html>
+<head>
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>HTml course </title>
+<link rel="icon" href="walid-fav.png" alt="favicon" sizes="16x16">
+
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Noto+Kufi+Arabic:wght@900&display=swap');
+    body{
+        background-color:aquamarine;
+        text-align:right;
+        font-family: 'Palette Mosaic', cursive;
+    }
+    #dev{
+        text-align: right;
+        font-family: 'Noto Kufi Arabic', sans-serif;
+    }
+
+
+
+/* CSS */
+.button-52 {
+  font-size: 16px;
+  font-weight: 200;
+  letter-spacing: 1px;
+  padding: 13px 20px 13px;
+  outline: 0;
+  border: 1px solid black;
+  cursor: pointer;
+  position: relative;
+  background-color: rgba(0, 0, 0, 0);
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  font-family: 'Noto Kufi Arabic', sans-serif;
+}
+
+.button-52:after {
+  content: "";
+  background-color: #ffe54c;
+  width: 100%;
+  z-index: -1;
+  position: absolute;
+  height: 100%;
+  top: 7px;
+  left: 7px;
+  transition: 0.2s;
+  font-family: 'Noto Kufi Arabic', sans-serif;
+}
+
+.button-52:hover:after {
+  top: 0px;
+  left: 0px;
+}
+
+@media (min-width: 768px) {
+  .button-52 {
+    padding: 13px 50px 13px;
+  }
+}
+.p{
+    text-align: center;
+}
+</style>
+</head>
+
+<body>
+
+ <p id="dev"> 1 الدرس HTML5 </p>
+
+<a href="https://mibouira.me/"><button href="https://mibouira.me/" class="button-52" role="button">Mibouira</button></a>
+<a href="https://mibouira.me/"><button href="https://mibouira.me/" class="button-52" role="button">موقع</button></a>
+<a href="https://mibouira.me/"><button href="https://mibouira.me/" class="button-52" role="button">في</button></a>
+<a href="https://mibouira.me/"><button href="https://mibouira.me/" class="button-52" role="button">بكم</button></a>
+<a href="https://mibouira.me/"><button href="https://mibouira.me/" class="button-52" role="button">مرحبا</button></a> <br><br>
+<input type="text" value="https://www.w3schools.com/html/html_responsive.asp" id="myInput">
+<button onclick="myFunction()">نسخ</button>
+<br>
+<script>
+function myFunction() {
+  /* Get the text field */
+  var copyText = document.getElementById("myInput");
+
+  /* Select the text field */
+  copyText.select();
+  copyText.setSelectionRange(0, 99999); /* For mobile devices */
+
+  /* Copy the text inside the text field */
+  navigator.clipboard.writeText(copyText.value);
+  
+  /* Alert the copied text */
+  alert("Copied the text: " + copyText.value);
+}
+</script>
+<br>
+<script src="https://fast.wistia.com/embed/medias/dedzrojk0u.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div class="wistia_responsive_padding" style="padding:62.5% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><div class="wistia_embed wistia_async_dedzrojk0u seo=false videoFoam=true" style="height:100%;position:relative;width:100%"><div class="wistia_swatch" style="height:100%;left:0;opacity:0;overflow:hidden;position:absolute;top:0;transition:opacity 200ms;width:100%;"><img src="https://fast.wistia.com/embed/medias/dedzrojk0u/swatch" style="filter:blur(5px);height:100%;object-fit:contain;width:100%;" alt="" aria-hidden="true" onload="this.parentNode.style.opacity=1;" /></div></div></div></div>
+</body>
+</html>
