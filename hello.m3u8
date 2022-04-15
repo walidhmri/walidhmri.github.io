@@ -1,0 +1,1401 @@
+#EXTM3U
+#EXTINF:-1 group-title="Undefined",ahlakid.com - A ONE TV
+http://stariptv.org:8080/wael2021/123456/112477?checkedby:ahlakid.com
+#EXTINF:-1 group-title="General;Undefined" tvg-logo="http://vidmgr.abnvideos.com/images/playlists/phpENpJQS.jpeg",ahlakid.com - ABNsat
+http://rtmp1.abnsat.com/hls/arabic.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/F5U9qpf.png",ahlakid.com - Dubai Zaman
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman&checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/6Er1lh6.png",ahlakid.com - Sharqiya from Kalba TV
+http://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/j1Xmygq.jpg",ahlakid.com - AJYAL TV (1920×1080)
+http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - AL HAYAT (1280×720)
+http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream/playlist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - EG | Al Horreya
+http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - AL KARMA TV (1920×1080)
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - Al Kass Sports
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1&checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport;Undefined",ahlakid.com - Al Kass Two
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2&checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - Al Kass Sports 3
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3&checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport;Undefined",ahlakid.com - Al Kass Five
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5&checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/6njRt6c.png",ahlakid.com - AL MAMLAKA TV (1920×1080)
+https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - AL QAMAR
+http://stariptv.org:8080/wael2021/123456/112618?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - AL RABIAA IRAQ SPORT
+http://stariptv.org:8080/wael2021/123456/143562?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - AL Rafidain
+http://cdg3.edge.tmed.pw/arrafidaintv/live_1024p/chunks.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - AL Sharqiya TV
+http://ns8.indexforce.com:1935/home/mystream/chunklist_w565406043.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - ALGHADEER
+http://stariptv.org:8080/wael2021/123456/112625?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - AR Akher Ayam El Madina
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/222427.mp4?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - AR-Alsharqiya tv
+http://ns8.indexforce.com:1935/home/mystream/gmswf.m3u8?v=&checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - AR.ART CINEMA
+http://stariptv.org:8080/wael2021/123456/15146?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - AR.ART Hekayat 1
+http://stariptv.org:8080/wael2021/123456/15145?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - AR.Citruss TV
+http://stariptv.org:8080/wael2021/123456/67772?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - AR.MBC 1
+http://stariptv.org:8080/wael2021/123456/15143?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - AR.MBC 1 HD
+http://stariptv.org:8080/wael2021/123456/15152?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - AR.MBC 2
+http://stariptv.org:8080/wael2021/123456/15142?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - AR.MBC 2 HD
+http://stariptv.org:8080/wael2021/123456/15151?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - AR.MBC 3 HD
+http://stariptv.org:8080/wael2021/123456/15150?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - AR.MBC 4
+http://stariptv.org:8080/wael2021/123456/15140?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - AR.MBC 4 HD
+http://stariptv.org:8080/wael2021/123456/15149?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - AR.MBC Masr 1
+http://stariptv.org:8080/wael2021/123456/15134?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - AR.ROTANA CLASSIC
+http://stariptv.org:8080/wael2021/123456/15121?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - AR.ROTANA CLIP
+http://stariptv.org:8080/wael2021/123456/15114?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - AR.ROTANA DRAMA
+http://stariptv.org:8080/wael2021/123456/55592?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - AR.ROTANA KHALIJIA
+http://stariptv.org:8080/wael2021/123456/15117?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - AR.Rotana Comedy HD
+http://stariptv.org:8080/wael2021/123456/97856?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - AR.ZEE AFLAM
+http://stariptv.org:8080/wael2021/123456/66388?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/14EjTS3.png",ahlakid.com - ATVSat (1080p) [Not 24/7]
+https://stream.atvsat.com/atvsatlive/smil:atvsatlive.smil/playlist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - AXA ZaMaN H265
+http://stariptv.org:8080/wael2021/123456/97522?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - Abu Dhabi Sports1
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1&checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - Abu Dhabi Sports 1
+http://stariptv.org:8080/wael2021/123456/97809?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - Abu Dhabi Sports 2
+http://stariptv.org:8080/wael2021/123456/97810?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/U6XDpXY.png",ahlakid.com - Abu Dhabi Sports 3
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports3&checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - Abu Dhabi Sports 3
+http://stariptv.org:8080/wael2021/123456/97811?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/8VqomZ5.png",ahlakid.com - Abu Dhabi Sports 4
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports4&checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Ahwak
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/222441.mp4?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Al Ahly TV
+http://stariptv.org:8080/wael2021/123456/97823?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://aldafrah.ae/wp-content/uploads/2018/02/logo_2x-1.png",ahlakid.com - Al Dhafra TV
+https://dcunilive62-lh.akamaihd.net/i/dclive_1@783592/master.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="General" tvg-logo="https://imn.iq/wp-content/uploads/2018/03/Logo.jpg",ahlakid.com - Al Iraqiya Al 3ama (720p) [Not 24/7]
+https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="News" tvg-logo="https://imn.iq/wp-content/uploads/2018/03/Logo.jpg",ahlakid.com - Al Iraqiya News (720p) [Not 24/7]
+https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Al Jazeera
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/222437.mp4?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Al Jil Al Rabia
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/222436.mp4?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Al Majd Quran Kareem
+http://stariptv.org:8080/wael2021/123456/150155?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Al Majd Space TV
+http://stariptv.org:8080/wael2021/123456/150158?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Al Mamlaka TV
+http://stariptv.org:8080/wael2021/123456/111532?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Al Rafidain TV
+http://stariptv.org:8080/wael2021/123456/112597?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Aljazera 2
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/222434.mp4?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Alkass 1 HD
+http://stariptv.org:8080/wael2021/123456/96214?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Alkass 2 HD
+http://stariptv.org:8080/wael2021/123456/96215?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Alkass 4 HD
+http://stariptv.org:8080/wael2021/123456/96216?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Alkass 5 HD
+http://stariptv.org:8080/wael2021/123456/96217?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Allembi
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/222433.mp4?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Almotzwegon
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/222432.mp4?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Altaghier
+http://stariptv.org:8080/wael2021/123456/112631?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Amman TV
+http://stariptv.org:8080/wael2021/123456/111539?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Business" tvg-logo="https://asharq.com/asharq-preview-logo.png",ahlakid.com - Asharq (1080p)
+https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/playlist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/WUvqhAZ.png",ahlakid.com - BH | Bahrain TV
+http://185.105.4.106:1935/live/Bahrain%20TV/chunklist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bahrain_tv_international.png",ahlakid.com - Bahrain International (720p) [Not 24/7]
+https://5c7b683162943.streamlock.net/live/ngrp:Bahrain+International_all/playlist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bahrain_quran_bh.png",ahlakid.com - Bahrain Quran (400p) [Not 24/7]
+https://5c7b683162943.streamlock.net/live/ngrp:Bahrain+Quran_all/playlist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/XZcLqWk.jpg",ahlakid.com - Bahrain TV
+http://185.105.4.106:1935/live/Bahrain%20TV/playlist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Beladi
+http://stariptv.org:8080/wael2021/123456/112638?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Bent Min Dar El-salam
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/222420.mp4?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Box ACTION 1
+http://stariptv.org:8080/wael2021/123456/97511?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Box ACTION 2
+http://stariptv.org:8080/wael2021/123456/97512?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Box Aflam 2
+http://stariptv.org:8080/wael2021/123456/97510?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Box HORROR
+http://stariptv.org:8080/wael2021/123456/97513?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Campus-TV-Magdeburg+
+http://62.113.210.250/medienasa-live/ok-wernigerode_high/chunklist_w937425968.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - DE-Offener-Kanal-Magdeburg+
+http://62.113.210.250/medienasa-live/ok-magdeburg_high/chunklist_w371875391.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - DZ.A3
+http://stariptv.org:8080/wael2021/123456/14783?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - DZ.AL DJAZAIRIA
+http://stariptv.org:8080/wael2021/123456/14777?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - DZ.ALBILAD
+http://stariptv.org:8080/wael2021/123456/14821?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - DZ.ALGERIE 5
+http://stariptv.org:8080/wael2021/123456/14785?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - DZ.BERBERE TV
+http://stariptv.org:8080/wael2021/123456/14941?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - DZ.BEUR TV
+http://stariptv.org:8080/wael2021/123456/14811?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - DZ.CANAL ALGERIE
+http://stariptv.org:8080/wael2021/123456/43600?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - DZ.CHAMS TV
+http://stariptv.org:8080/wael2021/123456/43605?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - DZ.ECHOROUK
+http://stariptv.org:8080/wael2021/123456/21219?checkedby:ahlakid.com
+#EXTINF:-1 group-title="News",ahlakid.com - DZ.ECHOUROUK NEWS
+http://stariptv.org:8080/wael2021/123456/21220?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - DZ.EL HADDAF
+http://stariptv.org:8080/wael2021/123456/21218?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - DZ.ELHAYAT TV
+http://stariptv.org:8080/wael2021/123456/43603?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - DZ.ENNAHAR TV ALGERIE
+http://stariptv.org:8080/wael2021/123456/14912?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - DZ.NUMIDIA TV
+http://stariptv.org:8080/wael2021/123456/43601?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - DZ.PROGRAMME NATIONAL
+http://stariptv.org:8080/wael2021/123456/43599?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - DZ.SAMIRA TV
+http://stariptv.org:8080/wael2021/123456/14913?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Darsak 2
+http://stariptv.org:8080/wael2021/123456/111542?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Dubai Racing 1 HD
+http://stariptv.org:8080/wael2021/123456/97816?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Dubai Racing 2 HD
+http://stariptv.org:8080/wael2021/123456/97817?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - Dubai Sport 1 HD
+http://stariptv.org:8080/wael2021/123456/97813?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - Dubai Sport 2 HD
+http://stariptv.org:8080/wael2021/123456/97814?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - Dubai Sport 3 HD
+http://stariptv.org:8080/wael2021/123456/97815?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - EGY.AL NAHAR DRAMA
+http://stariptv.org:8080/wael2021/123456/15108?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - EGY.AL SHASHA FOOD
+http://stariptv.org:8080/wael2021/123456/14820?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - EGY.Al Hayat Muslsalat TV
+http://stariptv.org:8080/wael2021/123456/97969?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - EGY.Alhayat Drama
+http://stariptv.org:8080/wael2021/123456/15104?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - EGY.CBC SOFRA
+http://stariptv.org:8080/wael2021/123456/15111?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - EGY.DMC
+http://stariptv.org:8080/wael2021/123456/14766?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - EGY.NILE SPORT
+http://stariptv.org:8080/wael2021/123456/15086?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - EGY.Njoom Hollywood
+http://stariptv.org:8080/wael2021/123456/97954?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - EGY.ON TV DRAMA
+http://stariptv.org:8080/wael2021/123456/11801?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - EGY.SADA EL BALAD
+http://stariptv.org:8080/wael2021/123456/15075?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - EGY.SADA EL BALAD 2
+http://stariptv.org:8080/wael2021/123456/21191?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - EL Taman The Price
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/222407.mp4?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Ekta TV
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Ekta TV
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - El Alamy
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/222413.mp4?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - El Br Tane
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/222412.mp4?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - El Hafla
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/222411.mp4?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - El Kahf
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/222410.mp4?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Religious",ahlakid.com - El Maqar (1080p)
+http://135.181.79.179/ElmaqarTVHD/playlist.m3u8?token=mobileuser&checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - El Ott
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/222408.mp4?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - El Za3im
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/222406.mp4?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Eleial Kebret
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/222405.mp4?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Elwad Elsaid Elchghal
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/222402.mp4?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Etihad TV
+http://stariptv.org:8080/wael2021/123456/112581?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Fasel Wa Na3oud
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/222399.mp4?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Fayrooz
+http://stariptv.org:8080/wael2021/123456/130480?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Fazzaa
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/222398.mp4?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Febraier
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/222397.mp4?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Film 9
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/222396.mp4?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - GOBX FILM BOX ART HOUSE
+http://stariptv.org:8080/wael2021/123456/92747?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - GOBX FIX FOXi
+http://stariptv.org:8080/wael2021/123456/45138?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - GOBX REEL PX unlimited
+http://stariptv.org:8080/wael2021/123456/100396?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - GOBX TDC
+http://stariptv.org:8080/wael2021/123456/65656?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - GOBX TRACE URBAIN
+http://stariptv.org:8080/wael2021/123456/92748?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - GOBX gulli bil arabie
+http://stariptv.org:8080/wael2021/123456/45140?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Game Over
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/222394.mp4?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Gawazza Meery
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/222393.mp4?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Gowa El Leaba
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/222392.mp4?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - HOME CINEMA1
+http://stariptv.org:8080/wael2021/123456/43627?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - HOME CINEMA10
+http://stariptv.org:8080/wael2021/123456/43618?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - HOME CINEMA2
+http://stariptv.org:8080/wael2021/123456/43626?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - HOME CINEMA3
+http://stariptv.org:8080/wael2021/123456/43625?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - HOME CINEMA4
+http://stariptv.org:8080/wael2021/123456/43624?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - HOME CINEMA5
+http://stariptv.org:8080/wael2021/123456/43623?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - HOME CINEMA6
+http://stariptv.org:8080/wael2021/123456/43622?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - HOME CINEMA7
+http://stariptv.org:8080/wael2021/123456/43621?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - HOME CINEMA8
+http://stariptv.org:8080/wael2021/123456/43620?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - HOME CINEMA9
+http://stariptv.org:8080/wael2021/123456/43619?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Hamaki
+http://stariptv.org:8080/wael2021/123456/130479?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Hamati Bithibini
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/222390.mp4?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Hamlat Feraizar
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/222389.mp4?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Haram 4
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/222388.mp4?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Hasal Kheer
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/222387.mp4?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Hassan W Bokloz
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/222385.mp4?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Hatoli Ragel
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/222384.mp4?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Iqraa
+http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Kids",ahlakid.com - KIDS.beIN Baraem HD
+http://stariptv.org:8080/wael2021/123456/88023?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - KSA Sport 3 4K
+http://stariptv.org:8080/wael2021/123456/97807?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - KSA.24 SAUDI
+http://stariptv.org:8080/wael2021/123456/15008?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - KSA.AL HAJ
+http://stariptv.org:8080/wael2021/123456/15000?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - KSA.AL SUADIA
+http://stariptv.org:8080/wael2021/123456/21183?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - KSA.Al Arabiya Alhadath SD
+http://stariptv.org:8080/wael2021/123456/97850?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - KSA.Al EKhbaria
+http://stariptv.org:8080/wael2021/123456/21185?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - KSA.IEN DOROS 1
+http://stariptv.org:8080/wael2021/123456/112568?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - KSA.SSC 7 HD
+http://stariptv.org:8080/wael2021/123456/142049?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - KSA.SUNNAH HD
+http://stariptv.org:8080/wael2021/123456/21190?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - KSA.THIKRAYAT
+http://stariptv.org:8080/wael2021/123456/21184?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - KWT.AL RAI HD
+http://stariptv.org:8080/wael2021/123456/66483?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - KWT.FUNoon
+http://stariptv.org:8080/wael2021/123456/66482?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Kangor Hobbena
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/222372.mp4?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/I5A1mMZ.jpg",ahlakid.com - Koogi TV (1080p)
+https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://kurdmaxcms.com/asset/image/footer_logo/%D9%A1_1.png",ahlakid.com - KurdMax (1080p)
+https://5aa8c7549bfa9.streamlock.net/liveTrans/ngrp:myStream_all/playlist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://kurdmaxcms.com/asset/image/footer_logo/show_2.png",ahlakid.com - KurdMax Show (1080p)
+https://5aa8c7549bfa9.streamlock.net/liveTrans/ngrp:SHOW1_all/playlist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Kurdistan 24
+https://d1x82nydcxndze.cloudfront.net/live/index.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - LBN.AGHANI
+http://stariptv.org:8080/wael2021/123456/14881?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - LBN.AL JADEED
+http://stariptv.org:8080/wael2021/123456/15009?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - LBN.AL MANAR TV
+http://stariptv.org:8080/wael2021/123456/15010?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - LBN.AL MAYADEEN
+http://stariptv.org:8080/wael2021/123456/15034?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - LBN.AL Manar TV- 7H
+http://stariptv.org:8080/wael2021/123456/112491?checkedby:ahlakid.com
+#EXTINF:-1 group-title="News",ahlakid.com - LBN.Al Alam News TV
+http://stariptv.org:8080/wael2021/123456/97866?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - LBN.Al Jadeed -7H HD
+http://stariptv.org:8080/wael2021/123456/112485?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - LBN.Al Jadeed TV Plus
+http://stariptv.org:8080/wael2021/123456/97857?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - LBN.Al Manar TV Plus
+http://stariptv.org:8080/wael2021/123456/97861?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - LBN.Al Mayadeen TV Plus
+http://stariptv.org:8080/wael2021/123456/97863?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - LBN.FUTURE TV
+http://stariptv.org:8080/wael2021/123456/15011?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - LBN.LBC
+http://stariptv.org:8080/wael2021/123456/15156?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - LBN.LBC 2
+http://stariptv.org:8080/wael2021/123456/66322?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - LBN.LBC International HD
+http://stariptv.org:8080/wael2021/123456/97858?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - LBN.LBC TV Plus
+http://stariptv.org:8080/wael2021/123456/112487?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - LBN.LBC- 7H HD
+http://stariptv.org:8080/wael2021/123456/97859?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - LBN.LBCI International - 7H HD
+http://stariptv.org:8080/wael2021/123456/112488?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - LBN.LDC
+http://stariptv.org:8080/wael2021/123456/15157?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - LBN.MTV HD
+http://stariptv.org:8080/wael2021/123456/66323?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - LBN.MTV Lebanon- 7H HD
+http://stariptv.org:8080/wael2021/123456/112486?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - LBN.NBN - 7H HD
+http://stariptv.org:8080/wael2021/123456/112490?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - LBN.NBN HD
+http://stariptv.org:8080/wael2021/123456/15013?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - LBN.O TV
+http://stariptv.org:8080/wael2021/123456/15158?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - LBN.ONE
+http://stariptv.org:8080/wael2021/123456/15012?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - LBN.OTV  Lebonan- 7H  HD
+http://stariptv.org:8080/wael2021/123456/112489?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - LBN.TL LIBAN
+http://stariptv.org:8080/wael2021/123456/21206?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - LBY.218
+http://stariptv.org:8080/wael2021/123456/14836?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - LBY.LLibya TV
+http://stariptv.org:8080/wael2021/123456/21162?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - LBY.Libya AL Mostakbal TV
+http://stariptv.org:8080/wael2021/123456/66494?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - LBY.PANORAMA
+http://stariptv.org:8080/wael2021/123456/14838?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - LBY.SALAM
+http://stariptv.org:8080/wael2021/123456/66492?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Layla Khir 3adia
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/222368.mp4?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - Libya Sport TV
+http://stariptv.org:8080/wael2021/123456/97818?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - MAR.2M MONDE
+http://stariptv.org:8080/wael2021/123456/14982?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - MAR.2M {TNT}
+http://stariptv.org:8080/wael2021/123456/100503?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - MAR.AL AOULA INTER
+http://stariptv.org:8080/wael2021/123456/14729?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - MAR.ARRIADIA
+http://stariptv.org:8080/wael2021/123456/14980?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - MAR.ARRIADIA HD
+http://stariptv.org:8080/wael2021/123456/100519?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - MAR.ARRIADIA {TNT}
+http://stariptv.org:8080/wael2021/123456/100509?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - MAR.ASSABIA AFLAM
+http://stariptv.org:8080/wael2021/123456/35992?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - MAR.ASSABIA HD {TNT}
+http://stariptv.org:8080/wael2021/123456/100507?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - MAR.ASSADISSA
+http://stariptv.org:8080/wael2021/123456/14724?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - MAR.Al Oula TV FHD hevc
+http://stariptv.org:8080/wael2021/123456/100529?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - MAR.CANAL ATLAS
+http://stariptv.org:8080/wael2021/123456/56036?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - MAR.CHADA
+http://stariptv.org:8080/wael2021/123456/32631?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - MAR.Chada Tv HD
+http://stariptv.org:8080/wael2021/123456/100518?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - MAR.ELAAYOUN
+http://stariptv.org:8080/wael2021/123456/14981?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - MAR.M24 MAROC
+http://stariptv.org:8080/wael2021/123456/100525?checkedby:ahlakid.com
+#EXTINF:-1 group-title="News",ahlakid.com - MAR.MAPTV NEWS
+http://stariptv.org:8080/wael2021/123456/87463?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - MAR.MBC 5
+http://stariptv.org:8080/wael2021/123456/58861?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - MAR.MEDI 1
+http://stariptv.org:8080/wael2021/123456/14842?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - MAR.TAMAZIGHT
+http://stariptv.org:8080/wael2021/123456/14977?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - MAR.TELE MAROC
+http://stariptv.org:8080/wael2021/123456/11789?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - MAR.Tamazight HD
+http://stariptv.org:8080/wael2021/123456/100522?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - MBC  DRAMA 4K
+http://stariptv.org:8080/wael2021/123456/45163?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - MBC 1 4K
+http://stariptv.org:8080/wael2021/123456/45165?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - MBC 2 4K
+http://stariptv.org:8080/wael2021/123456/45168?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - MBC 3 4K
+http://stariptv.org:8080/wael2021/123456/45143?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - MBC 4 4K
+http://stariptv.org:8080/wael2021/123456/45164?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - MBC 5 4K
+http://stariptv.org:8080/wael2021/123456/92759?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - MBC ACTION HD 4K
+http://stariptv.org:8080/wael2021/123456/45166?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - MBC BOLLYWOOD 4K
+http://stariptv.org:8080/wael2021/123456/45162?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - MBC FM 4K
+http://stariptv.org:8080/wael2021/123456/92755?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - MBC IRAQ
+http://stariptv.org:8080/wael2021/123456/92760?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - MBC IRAQ  4K
+http://stariptv.org:8080/wael2021/123456/92752?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - MBC MASR 1 4K
+http://stariptv.org:8080/wael2021/123456/92753?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - MBC MASR 2 4K
+http://stariptv.org:8080/wael2021/123456/92754?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - MBC MAX 4K
+http://stariptv.org:8080/wael2021/123456/45167?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - MBC Panorama FM 4K
+http://stariptv.org:8080/wael2021/123456/148413?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - MBC Persian 4K
+http://stariptv.org:8080/wael2021/123456/148411?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - MBC+ Drama 4K
+http://stariptv.org:8080/wael2021/123456/43679?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - MEA TV National
+http://stariptv.org:8080/wael2021/123456/112598?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - MH FALAM 1
+http://stariptv.org:8080/wael2021/123456/43658?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - MH FALAM 2
+http://stariptv.org:8080/wael2021/123456/43657?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - MH FALAM 3
+http://stariptv.org:8080/wael2021/123456/43656?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - MH Masrah Masr
+http://stariptv.org:8080/wael2021/123456/43652?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - MH ZaMaN 1
+http://stariptv.org:8080/wael2021/123456/43654?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - MH horror 2
+http://stariptv.org:8080/wael2021/123456/43665?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - MH masr7yat
+http://stariptv.org:8080/wael2021/123456/43651?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Madraset Elmochaghben
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/222365.mp4?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Majestic masr7yat hd
+http://stariptv.org:8080/wael2021/123456/43632?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Majestic wwe hd
+http://stariptv.org:8080/wael2021/123456/43628?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Mamnou Al-ekterab
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/222364.mp4?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Man Yotfe2 Alnar
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/222363.mp4?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Mawal (720p)
+http://vstream3.hadara.ps:8081/MawwalHD_web/web/playlist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Mawlana
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/222362.mp4?checkedby:ahlakid.com
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/MosTwQW.png",ahlakid.com - Medi 1 TV Arabic (1080p) [Not 24/7]
+http://5f72f3a9b06b7.streamlock.net/live/smil:medi1ar.smil/playlist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/MosTwQW.png",ahlakid.com - Medi 1 TV Maghreb (1080p) [Not 24/7]
+http://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Mekameleen مكملين
+http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b1864000.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Men 30 Sana
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/222361.mp4?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Men Dahr Rajel
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/222360.mp4?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Music" tvg-logo="https://www.mosaiquefm.net/images/front2020/logoar.png",ahlakid.com - Mosaïque FM (480p) [Not 24/7]
+https://webcam.mosaiquefm.net:1936/mosatv/studio/playlist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - قناة مساواة
+http://htvpalsat.mada.ps:8888/musawa/tracks-v1a1/mono.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Music",ahlakid.com - Music.Arabica TV
+http://stariptv.org:8080/wael2021/123456/97836?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Music",ahlakid.com - Music.Om Kalthoum TV
+http://stariptv.org:8080/wael2021/123456/97834?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Music",ahlakid.com - Music.Panorama FM 4K
+http://stariptv.org:8080/wael2021/123456/97838?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - NETFLIX ACTION
+http://stariptv.org:8080/wael2021/123456/107027?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - NETFLIX BOX OFFICE
+http://stariptv.org:8080/wael2021/123456/107029?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - NETFLIX COMEDY
+http://stariptv.org:8080/wael2021/123456/107031?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - NETFLIX DRAMA
+http://stariptv.org:8080/wael2021/123456/107032?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - NETFLIX HORROR
+http://stariptv.org:8080/wael2021/123456/107033?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - NETFLIX MOVIES
+http://stariptv.org:8080/wael2021/123456/107035?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - NETFLIX PLAYS
+http://stariptv.org:8080/wael2021/123456/107028?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - NETFLIX SERIES ARABI
+http://stariptv.org:8080/wael2021/123456/130342?checkedby:ahlakid.com
+#EXTINF:-1 group-title="News",ahlakid.com - NEWS.92 News
+http://stariptv.org:8080/wael2021/123456/66373?checkedby:ahlakid.com
+#EXTINF:-1 group-title="News",ahlakid.com - NEWS.AL HADATH HD
+http://stariptv.org:8080/wael2021/123456/14960?checkedby:ahlakid.com
+#EXTINF:-1 group-title="News",ahlakid.com - NEWS.AL JAZEERA ENGLISH
+http://stariptv.org:8080/wael2021/123456/21244?checkedby:ahlakid.com
+#EXTINF:-1 group-title="News",ahlakid.com - NEWS.Al Sharq News TV
+http://stariptv.org:8080/wael2021/123456/21245?checkedby:ahlakid.com
+#EXTINF:-1 group-title="News",ahlakid.com - NEWS.DW TV ARABIA
+http://stariptv.org:8080/wael2021/123456/14818?checkedby:ahlakid.com
+#EXTINF:-1 group-title="News",ahlakid.com - NEWS.Libya 218 News
+http://stariptv.org:8080/wael2021/123456/21237?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Nat_geo_channel_abu_dhabi.png/220px-Nat_geo_channel_abu_dhabi.png",ahlakid.com - National Geographic Abu Dhabi (1080p)
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Netflix 10
+http://stariptv.org:8080/wael2021/123456/130421?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Netflix 11
+http://stariptv.org:8080/wael2021/123456/130422?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Netflix 12
+http://stariptv.org:8080/wael2021/123456/130423?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Netflix 13
+http://stariptv.org:8080/wael2021/123456/130424?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Netflix 14
+http://stariptv.org:8080/wael2021/123456/130425?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Netflix 15
+http://stariptv.org:8080/wael2021/123456/130426?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Netflix 2
+http://stariptv.org:8080/wael2021/123456/130413?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Netflix 3
+http://stariptv.org:8080/wael2021/123456/130414?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Netflix 4
+http://stariptv.org:8080/wael2021/123456/130415?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Netflix 5
+http://stariptv.org:8080/wael2021/123456/130416?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Netflix 6
+http://stariptv.org:8080/wael2021/123456/130417?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Netflix 7
+http://stariptv.org:8080/wael2021/123456/130418?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Netflix 8
+http://stariptv.org:8080/wael2021/123456/130419?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Netflix Action 1
+http://stariptv.org:8080/wael2021/123456/130427?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Netflix Action 2
+http://stariptv.org:8080/wael2021/123456/130428?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Netflix Cartoon 1
+http://stariptv.org:8080/wael2021/123456/130429?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Netflix Horror 1
+http://stariptv.org:8080/wael2021/123456/130434?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Netflix Sci-Fi
+http://stariptv.org:8080/wael2021/123456/130431?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - Nile Sport
+http://stariptv.org:8080/wael2021/123456/97824?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/XAYcgQb.png",ahlakid.com - Nile TV Cinema (576p) [Not 24/7]
+http://livestreaming5.onlinehorizons.net/hls-live/NTNNileCinema/_definst_/liveevent/livestream.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://i.imgur.com/s3SCah8.png",ahlakid.com - Nile TV Life (576p) [Not 24/7]
+http://livestreaming5.onlinehorizons.net/hls-live/NTNNileLife/_definst_/liveevent/livestream.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Nine 9
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/222356.mp4?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/C7kfubs.png",ahlakid.com - Oman TV
+http://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/playlist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/sRlAGQD.png",ahlakid.com - Oman TV Cultural
+http://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/playlist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/stADjXC.png",ahlakid.com - Oman TV Mubashir
+http://partwo.cdn.mangomolo.com/omlive/smil:omlive.stream.smil/playlist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN  Nick Jr
+http://stariptv.org:8080/wael2021/123456/100362?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN ART AFLAM1
+http://stariptv.org:8080/wael2021/123456/100341?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN ART AFLAM2
+http://stariptv.org:8080/wael2021/123456/100342?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN ART CINEMA
+http://stariptv.org:8080/wael2021/123456/100338?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN ART Hekayat 2
+http://stariptv.org:8080/wael2021/123456/100340?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN ART Hekayat1
+http://stariptv.org:8080/wael2021/123456/100339?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN CINEMA 1
+http://stariptv.org:8080/wael2021/123456/100386?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN CINEMA 2
+http://stariptv.org:8080/wael2021/123456/100387?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN Crime Investigation
+http://stariptv.org:8080/wael2021/123456/93219?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN DISNEY
+http://stariptv.org:8080/wael2021/123456/100361?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN DISNEY JOINUR
+http://stariptv.org:8080/wael2021/123456/100370?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN Discovery
+http://stariptv.org:8080/wael2021/123456/100354?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN Discovery IDX
+http://stariptv.org:8080/wael2021/123456/100355?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN Discovery IDX HD
+http://stariptv.org:8080/wael2021/123456/92306?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN Fashion TV HD
+http://stariptv.org:8080/wael2021/123456/92312?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - OSN GINX Esports VIP
+http://stariptv.org:8080/wael2021/123456/92317?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN HISTORY 2
+http://stariptv.org:8080/wael2021/123456/100378?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN History 1
+http://stariptv.org:8080/wael2021/123456/100377?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Kids",ahlakid.com - OSN KIDS
+http://stariptv.org:8080/wael2021/123456/100359?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Kids",ahlakid.com - OSN Kids HD
+http://stariptv.org:8080/wael2021/123456/92313?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Kids",ahlakid.com - OSN Kids Zone
+http://stariptv.org:8080/wael2021/123456/100371?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Kids",ahlakid.com - OSN MOONBUG KIDS
+http://stariptv.org:8080/wael2021/123456/100357?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN MOSALSALAT 1
+http://stariptv.org:8080/wael2021/123456/100383?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN MOSALSALAT 2
+http://stariptv.org:8080/wael2021/123456/100384?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN Movies Disney
+http://stariptv.org:8080/wael2021/123456/100360?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN Movies First +2
+http://stariptv.org:8080/wael2021/123456/100349?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN Nat GEOGRAPHIC
+http://stariptv.org:8080/wael2021/123456/100376?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN National Geographic People
+http://stariptv.org:8080/wael2021/123456/100375?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN National Geographic Wild
+http://stariptv.org:8080/wael2021/123456/100374?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN Nickelodeon
+http://stariptv.org:8080/wael2021/123456/100372?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN Nicktoons
+http://stariptv.org:8080/wael2021/123456/100373?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN SERIES FIRST
+http://stariptv.org:8080/wael2021/123456/100366?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN STAR MOVIES
+http://stariptv.org:8080/wael2021/123456/100369?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN Series
+http://stariptv.org:8080/wael2021/123456/100363?checkedby:ahlakid.com
+#EXTINF:-1 group-title="News",ahlakid.com - OSN Sky News HD
+http://stariptv.org:8080/wael2021/123456/92310?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN TLC
+http://stariptv.org:8080/wael2021/123456/100391?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN TLC HD
+http://stariptv.org:8080/wael2021/123456/92308?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN Ya Hala Cinema
+http://stariptv.org:8080/wael2021/123456/100343?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN action
+http://stariptv.org:8080/wael2021/123456/100346?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN alyoum
+http://stariptv.org:8080/wael2021/123456/100385?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN baby
+http://stariptv.org:8080/wael2021/123456/100365?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN comedy central
+http://stariptv.org:8080/wael2021/123456/100364?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN fan
+http://stariptv.org:8080/wael2021/123456/100381?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN movies
+http://stariptv.org:8080/wael2021/123456/100347?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN movies first
+http://stariptv.org:8080/wael2021/123456/100348?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN: ALFA ALYOUM HD
+http://stariptv.org:8080/wael2021/123456/55978?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN: ALFA Cinema 1 HD
+http://stariptv.org:8080/wael2021/123456/55979?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN: ALFA Cinema 2 HD
+http://stariptv.org:8080/wael2021/123456/55980?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN: BABY HD
+http://stariptv.org:8080/wael2021/123456/55923?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN: COMEDY
+http://stariptv.org:8080/wael2021/123456/55981?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN: COMEDY CENTRAL HD
+http://stariptv.org:8080/wael2021/123456/55926?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN: DISCOVERY CHANNEL
+http://stariptv.org:8080/wael2021/123456/55927?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN: DISCOVERY ID HD
+http://stariptv.org:8080/wael2021/123456/55929?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN: DISCOVERY SCIENCE
+http://stariptv.org:8080/wael2021/123456/55930?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN: HISTORY HD
+http://stariptv.org:8080/wael2021/123456/55936?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN: KIDS ZONE HD
+http://stariptv.org:8080/wael2021/123456/55937?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN: LIVING HD
+http://stariptv.org:8080/wael2021/123456/55938?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN: MOVIES  FIRST +2 HD
+http://stariptv.org:8080/wael2021/123456/55935?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN: MOVIES ACTION HD
+http://stariptv.org:8080/wael2021/123456/55940?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN: MOVIES Disney HD
+http://stariptv.org:8080/wael2021/123456/55942?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN: MOVIES ENGIMA HD
+http://stariptv.org:8080/wael2021/123456/55943?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN: MOVIES FIRST HD
+http://stariptv.org:8080/wael2021/123456/55934?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN: MOVIES HD
+http://stariptv.org:8080/wael2021/123456/55939?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN: MOVIES KIDS HD
+http://stariptv.org:8080/wael2021/123456/55944?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN: NAT GEO PEOPLE HD
+http://stariptv.org:8080/wael2021/123456/55947?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN: NICK JR HD
+http://stariptv.org:8080/wael2021/123456/55949?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN: NICKELODEON HD
+http://stariptv.org:8080/wael2021/123456/55950?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN: National Geographic HD
+http://stariptv.org:8080/wael2021/123456/55945?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN: National Geographic WILD  HD
+http://stariptv.org:8080/wael2021/123456/55948?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN: OSN ALFA AL SAFWA
+http://stariptv.org:8080/wael2021/123456/70576?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN: OSN ALFA FANN HD
+http://stariptv.org:8080/wael2021/123456/70580?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN: OSN ALFA MOSALSALAT 1
+http://stariptv.org:8080/wael2021/123456/70577?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN: OSN ALFA MOSALSALAT 2
+http://stariptv.org:8080/wael2021/123456/70578?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN: OSN H2 HD
+http://stariptv.org:8080/wael2021/123456/70581?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN: OSN Yahala Cinema HD
+http://stariptv.org:8080/wael2021/123456/70575?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN: STAR MOVIES HD
+http://stariptv.org:8080/wael2021/123456/55956?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN: STAR WORLD HD
+http://stariptv.org:8080/wael2021/123456/55957?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN: WWE FHD
+http://stariptv.org:8080/wael2021/123456/92311?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN: YA HALA Al Oula HD
+http://stariptv.org:8080/wael2021/123456/55961?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OSN: YA HALA HD
+http://stariptv.org:8080/wael2021/123456/55960?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - OWS TV HD
+http://stariptv.org:8080/wael2021/123456/112593?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Ocean 14
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/222355.mp4?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - Oman Sport HD
+http://stariptv.org:8080/wael2021/123456/97877?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Omr Khirat
+http://stariptv.org:8080/wael2021/123456/130476?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - On Time Sport HD 1
+http://stariptv.org:8080/wael2021/123456/97820?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - On Time Sport HD 2
+http://stariptv.org:8080/wael2021/123456/97821?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Ostora Arabic 10
+http://stariptv.org:8080/wael2021/123456/130490?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Ostora Arabic 3
+http://stariptv.org:8080/wael2021/123456/130483?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Ostora Arabic 4
+http://stariptv.org:8080/wael2021/123456/130484?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Ostora Arabic 6
+http://stariptv.org:8080/wael2021/123456/130486?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Ostora Arabic 7
+http://stariptv.org:8080/wael2021/123456/130487?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - PLAY CINEMA1
+http://stariptv.org:8080/wael2021/123456/43617?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - PLAY CINEMA2
+http://stariptv.org:8080/wael2021/123456/43616?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - PLAY CINEMA3
+http://stariptv.org:8080/wael2021/123456/43615?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - PLAY CINEMA5
+http://stariptv.org:8080/wael2021/123456/43613?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - PLAY CINEMA6
+http://stariptv.org:8080/wael2021/123456/43612?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - PLAY CINEMA7
+http://stariptv.org:8080/wael2021/123456/43611?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - PLAY CINEMA8
+http://stariptv.org:8080/wael2021/123456/43610?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - PLAY CINEMA9
+http://stariptv.org:8080/wael2021/123456/43609?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - PSE.Al-Quds Educational
+http://stariptv.org:8080/wael2021/123456/62040?checkedby:ahlakid.com
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/KcSgZg0.jpg",ahlakid.com - Palestine Satellite Channel (1080p)
+https://pbc.furrera.ps/palestinehd/index.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Paparazzi
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/222353.mp4?checkedby:ahlakid.com
+#EXTINF:-1 group-title="News" tvg-logo="https://content.osn.com/logo/channel/cropped/RUS.png",ahlakid.com - RT Arabic (1080p) [Geo-blocked]
+https://rt-arb.rttv.com/live/rtarab/playlist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Raghda Motaw7sha
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/222352.mp4?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Roya HD
+http://stariptv.org:8080/wael2021/123456/111533?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - SAUDI 24 SPORT HD
+http://stariptv.org:8080/wael2021/123456/100470?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - SHahid ACTION 3
+http://stariptv.org:8080/wael2021/123456/130465?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - SHahid ADVENTURE 2
+http://stariptv.org:8080/wael2021/123456/130450?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - SHahid ARABIA 1
+http://stariptv.org:8080/wael2021/123456/130446?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - SHahid ARABIA 2
+http://stariptv.org:8080/wael2021/123456/130447?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - SHahid Action
+http://stariptv.org:8080/wael2021/123456/130458?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - SHahid Action 1
+http://stariptv.org:8080/wael2021/123456/130463?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - SHahid Action 2
+http://stariptv.org:8080/wael2021/123456/130464?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - SHahid Aflam 1
+http://stariptv.org:8080/wael2021/123456/130460?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - SHahid Aflam 2
+http://stariptv.org:8080/wael2021/123456/130461?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - SHahid Aflam 3
+http://stariptv.org:8080/wael2021/123456/130462?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - SHahid Aflam2
+http://stariptv.org:8080/wael2021/123456/130457?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - SHahid Aflam_1
+http://stariptv.org:8080/wael2021/123456/130456?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - SHahid Cartoon
+http://stariptv.org:8080/wael2021/123456/130438?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - SHahid Cartoon
+http://stariptv.org:8080/wael2021/123456/130466?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - SHahid Clip
+http://stariptv.org:8080/wael2021/123456/130454?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - SHahid Horror
+http://stariptv.org:8080/wael2021/123456/130453?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - SHahid Horror 2
+http://stariptv.org:8080/wael2021/123456/130441?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - SHahid Masr7yat
+http://stariptv.org:8080/wael2021/123456/130439?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - SHahid Romance
+http://stariptv.org:8080/wael2021/123456/130452?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - SHahid Sci-Fi
+http://stariptv.org:8080/wael2021/123456/130436?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - SSC 2 HD
+http://stariptv.org:8080/wael2021/123456/141936?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - SSC 7 HD
+http://stariptv.org:8080/wael2021/123456/141941?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - STORTINGET
+http://194.132.85.39/19333-live0/_definst_/push-stortinget_1/chunklist_w1136072204.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - SYR.DRAMA
+http://stariptv.org:8080/wael2021/123456/14965?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Sarkhat Namla
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/222349.mp4?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Shabab FM (720p) [Not 24/7]
+https://streaming.zaytonatube.com:8081/ShababFM/shabab/index.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - Sharjah Sport HD
+http://stariptv.org:8080/wael2021/123456/141797?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Sky-MoviesComedy
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="http://shaashada.com/images/somalicable.png",ahlakid.com - Somali cable
+https://ap02.iqplay.tv:8082/iqb8002/somc131/chunks.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Syria News
+http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_news&checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - TUN.AL INSENE
+http://stariptv.org:8080/wael2021/123456/14985?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - TUN.AL JANOUBIA
+http://stariptv.org:8080/wael2021/123456/14788?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - TUN.EL HIWAR ETTOUNSI
+http://stariptv.org:8080/wael2021/123456/14984?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - TUN.M TUNISIA
+http://stariptv.org:8080/wael2021/123456/21200?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - TUN.NAT 1
+http://stariptv.org:8080/wael2021/123456/14992?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - TUN.NAT 2
+http://stariptv.org:8080/wael2021/123456/14991?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - TUN.SAHEL TV
+http://stariptv.org:8080/wael2021/123456/66379?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - TUN.TELVZA TV
+http://stariptv.org:8080/wael2021/123456/14988?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - TUN.TOUNESNA
+http://stariptv.org:8080/wael2021/123456/14989?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - TUN.ZAYTOUNA TV
+http://stariptv.org:8080/wael2021/123456/14990?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - The Morals Of Slaves
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/222340.mp4?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - The Party
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/222339.mp4?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - Time Sport HD
+http://stariptv.org:8080/wael2021/123456/97825?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Travel" tvg-logo="https://i.imgur.com/cZM2t0P.png",ahlakid.com - Tunisie Immobilier TV (720p) [Not 24/7]
+https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/playlist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - UAE.ABU DHABI
+http://stariptv.org:8080/wael2021/123456/15023?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - UAE.AD EMARAT
+http://stariptv.org:8080/wael2021/123456/15024?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - UAE.AD NAT GEO
+http://stariptv.org:8080/wael2021/123456/15026?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - UAE.AJMAN TV
+http://stariptv.org:8080/wael2021/123456/66361?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - UAE.Abu Dabi Sport 1 HD
+http://stariptv.org:8080/wael2021/123456/4310?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - UAE.Abu Dabi Sport 2 HD
+http://stariptv.org:8080/wael2021/123456/4311?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - UAE.Abu Dabi Sport 3 HD
+http://stariptv.org:8080/wael2021/123456/15020?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - UAE.Abu Dabi Sport 4 HD
+http://stariptv.org:8080/wael2021/123456/15019?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - UAE.DUBAI NOOR
+http://stariptv.org:8080/wael2021/123456/15028?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - UAE.DUBAI ONE
+http://stariptv.org:8080/wael2021/123456/15029?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - UAE.DUBAI SAMA
+http://stariptv.org:8080/wael2021/123456/15025?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - UAE.DUBAI SPORT 1
+http://stariptv.org:8080/wael2021/123456/15018?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - UAE.DUBAI SPORT 2
+http://stariptv.org:8080/wael2021/123456/15016?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - UAE.DUBAI SPORT 3
+http://stariptv.org:8080/wael2021/123456/15017?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - UAE.DUBAI TV
+http://stariptv.org:8080/wael2021/123456/15030?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - UAE.DUBAI ZAMAN
+http://stariptv.org:8080/wael2021/123456/15027?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - UAE.Dubai Racing 2
+http://stariptv.org:8080/wael2021/123456/15015?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - UAE.Dubai Racing 3
+http://stariptv.org:8080/wael2021/123456/15021?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - UAE.HAWAS TV
+http://stariptv.org:8080/wael2021/123456/66363?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - UAE.SHARJAH TV
+http://stariptv.org:8080/wael2021/123456/66366?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Vitamin
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/222336.mp4?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/EKGnd0S.png",ahlakid.com - WATAR (1280×720)
+http://htvint.mada.ps:8889//orient/tracks-v1a1/mono.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - WWE HD
+http://stariptv.org:8080/wael2021/123456/97819?checkedby:ahlakid.com
+#EXTINF:-1 group-title="General" tvg-logo="https://watanegypt.tv/wp-content/uploads/2021/10/Logo2020-1-1.png",ahlakid.com - Watan TV (1080p)
+https://cdg8.edge.technocdn.com/watantv/live/playlist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Watar TV
+http://stariptv.org:8080/wael2021/123456/112482?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Wayyak- Adel Imam HD
+http://stariptv.org:8080/wael2021/123456/129680?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Wayyak- Akshay Komar HD
+http://stariptv.org:8080/wael2021/123456/129687?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Wayyak- Bollywood Comedy HD1
+http://stariptv.org:8080/wael2021/123456/129683?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Wayyak- Bollywood Comedy HD2
+http://stariptv.org:8080/wael2021/123456/129684?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Wayyak- Bollywood Love HD
+http://stariptv.org:8080/wael2021/123456/129685?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Wayyak- Comedy HD
+http://stariptv.org:8080/wael2021/123456/129678?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Wayyak- Drama HD
+http://stariptv.org:8080/wael2021/123456/129676?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Wayyak- Kitchen HD1
+http://stariptv.org:8080/wael2021/123456/129688?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Wayyak- Masrah HD
+http://stariptv.org:8080/wael2021/123456/129681?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Wayyak- Mix HD
+http://stariptv.org:8080/wael2021/123456/129677?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Wayyak- Romantic HD
+http://stariptv.org:8080/wael2021/123456/129679?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Wayyak2 Kitchen HD2
+http://stariptv.org:8080/wael2021/123456/129689?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - YEM.HADRAMOOT
+http://stariptv.org:8080/wael2021/123456/21216?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Yathadi Yat3adi
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/222329.mp4?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Youm Malouch Lazma
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/222327.mp4?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - ZAGROS TV (1280×720)
+https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/chunklist.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - ZEE ALWAN (1280×720)
+http://ns8.indexforce.com:1935/home/mystream/chunklist_w761777562.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - ZEE ALWAN (1280×720)
+http://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Zanget Settat
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/222324.mp4?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - Zanqat Sittat
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/222323.mp4?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - arrafidaintv
+http://149.202.79.190:8081/arrafidaintv/publish/playlist.m3u8?v=&checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - beIN  Boomerang HD
+http://stariptv.org:8080/wael2021/123456/132001?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - beIN 1 HD
+http://stariptv.org:8080/wael2021/123456/15560?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - beIN 1 HQ
+http://stariptv.org:8080/wael2021/123456/2755?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - beIN 1 PREMIUM FHD
+http://stariptv.org:8080/wael2021/123456/141563?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - beIN 1 PREMIUM HD
+http://stariptv.org:8080/wael2021/123456/15563?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - beIN 1 XTRA HQ
+http://stariptv.org:8080/wael2021/123456/132027?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - beIN 2 HD
+http://stariptv.org:8080/wael2021/123456/15559?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - beIN 2 HQ
+http://stariptv.org:8080/wael2021/123456/2756?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - beIN 2 PREMIUM FHD
+http://stariptv.org:8080/wael2021/123456/141564?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - beIN 2 PREMIUM HD
+http://stariptv.org:8080/wael2021/123456/15562?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - beIN 2 PREMIUM HQ
+http://stariptv.org:8080/wael2021/123456/2763?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - beIN 2 XTRA HQ
+http://stariptv.org:8080/wael2021/123456/132028?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - beIN 3 HD
+http://stariptv.org:8080/wael2021/123456/15558?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - beIN 3 HQ
+http://stariptv.org:8080/wael2021/123456/2757?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - beIN 3 PREMIUM FHD
+http://stariptv.org:8080/wael2021/123456/141565?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - beIN 3 PREMIUM HD
+http://stariptv.org:8080/wael2021/123456/15561?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - beIN 3 PREMIUM HQ
+http://stariptv.org:8080/wael2021/123456/2766?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - beIN 4 HD
+http://stariptv.org:8080/wael2021/123456/15557?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - beIN 4 HQ
+http://stariptv.org:8080/wael2021/123456/2758?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - beIN 5 HD
+http://stariptv.org:8080/wael2021/123456/15556?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - beIN 5 HQ
+http://stariptv.org:8080/wael2021/123456/2759?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - beIN 6 HD
+http://stariptv.org:8080/wael2021/123456/15555?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - beIN 6 HQ
+http://stariptv.org:8080/wael2021/123456/2760?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - beIN 7 HD
+http://stariptv.org:8080/wael2021/123456/15720?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - beIN 7 HQ
+http://stariptv.org:8080/wael2021/123456/2761?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - beIN BARAEM
+http://stariptv.org:8080/wael2021/123456/131995?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - beIN DRAMA
+http://stariptv.org:8080/wael2021/123456/131993?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - beIN EXTRA 1 HD
+http://stariptv.org:8080/wael2021/123456/15721?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - beIN EXTRA 2 HD
+http://stariptv.org:8080/wael2021/123456/15722?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - beIN FATAFEAT
+http://stariptv.org:8080/wael2021/123456/132015?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - beIN FOX HD
+http://stariptv.org:8080/wael2021/123456/132006?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - beIN FOX MOVIES ACTION
+http://stariptv.org:8080/wael2021/123456/132007?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - beIN FOX Rewayat
+http://stariptv.org:8080/wael2021/123456/132002?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - beIN FX HD
+http://stariptv.org:8080/wael2021/123456/132003?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - beIN FoodNetwork HD
+http://stariptv.org:8080/wael2021/123456/132009?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - beIN GOURMET
+http://stariptv.org:8080/wael2021/123456/131997?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - beIN JEEM HD
+http://stariptv.org:8080/wael2021/123456/131998?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - beIN MOVIES ACTION
+http://stariptv.org:8080/wael2021/123456/131989?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - beIN MOVIES DRAMA
+http://stariptv.org:8080/wael2021/123456/131988?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - beIN MOVIES FAMILY
+http://stariptv.org:8080/wael2021/123456/131987?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - beIN MOVIES Premiere
+http://stariptv.org:8080/wael2021/123456/131990?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - beIN News HD
+http://stariptv.org:8080/wael2021/123456/22185?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - beIN SERIES HD1
+http://stariptv.org:8080/wael2021/123456/131991?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - beIN SERIES HD2
+http://stariptv.org:8080/wael2021/123456/131992?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - beIN SPORT HD
+http://stariptv.org:8080/wael2021/123456/22186?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - beIN Sport NBA HD
+http://stariptv.org:8080/wael2021/123456/150160?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - beIN Sports HD1 FHD
+http://stariptv.org:8080/wael2021/123456/141566?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - beIN Sports HD2 FHD
+http://stariptv.org:8080/wael2021/123456/141567?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - beIN Sports HD3 FHD
+http://stariptv.org:8080/wael2021/123456/141568?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - beIN Sports HD4 FHD
+http://stariptv.org:8080/wael2021/123456/141569?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - beIN Sports HD5 FHD
+http://stariptv.org:8080/wael2021/123456/141570?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - beIN Sports HD6 FHD
+http://stariptv.org:8080/wael2021/123456/141571?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Sport",ahlakid.com - beIN Sports HD7 FHD
+http://stariptv.org:8080/wael2021/123456/141572?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - beIN bbc earth
+http://stariptv.org:8080/wael2021/123456/131994?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Kids",ahlakid.com - kids.Almajd KIDS
+http://stariptv.org:8080/wael2021/123456/98026?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Kids",ahlakid.com - kids.Disney Channel HD
+http://stariptv.org:8080/wael2021/123456/98036?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Kids",ahlakid.com - kids.Disney Junior HD
+http://stariptv.org:8080/wael2021/123456/98032?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Kids",ahlakid.com - kids.FIX FOXI HD
+http://stariptv.org:8080/wael2021/123456/98027?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Kids",ahlakid.com - kids.GULLI ARABIC
+http://stariptv.org:8080/wael2021/123456/98041?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Kids",ahlakid.com - kids.KOKKY
+http://stariptv.org:8080/wael2021/123456/98029?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Kids",ahlakid.com - kids.Kids Zone
+http://stariptv.org:8080/wael2021/123456/98028?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Kids",ahlakid.com - kids.MODY
+http://stariptv.org:8080/wael2021/123456/98035?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Kids",ahlakid.com - kids.Majid Kids TV
+http://stariptv.org:8080/wael2021/123456/98045?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Kids",ahlakid.com - kids.NickToon HD
+http://stariptv.org:8080/wael2021/123456/98034?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Kids",ahlakid.com - kids.Nickelodeon HD
+http://stariptv.org:8080/wael2021/123456/98037?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Kids",ahlakid.com - kids.Rotana Kids FHD
+http://stariptv.org:8080/wael2021/123456/98040?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Kids",ahlakid.com - kids.Rotana Kids HD
+http://stariptv.org:8080/wael2021/123456/98024?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Kids",ahlakid.com - kids.Sanafir
+http://stariptv.org:8080/wael2021/123456/98025?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Kids",ahlakid.com - kids.Tom and Jerry 1
+http://stariptv.org:8080/wael2021/123456/98039?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - makkah
+http://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master_2596.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - makkah
+http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/chunks.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - makkah
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b850000.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - makkah
+http://mbningestworld-i.akamaihd.net/hls/live/586122/worldsafe/master_2596.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - %D8%A3%D8%AD%D9%84%D9%89%20%D8%A3%D9%8A%D8%A7%D9%85%20%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9%2030
+https://cdn.alarab.com/h264/156611_480p.mp4/index-v1-a1.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - %D8%B3%D9%84%D8%B7%D8%A7%D9%86%D8%A9%20%D8%A7%D9%84%D9%85%D8%B9%D8%B2%20%D8%A7%D9%84%D8%AD%D9%84%D9%
+https://cdn.alarab.com/h264/156595_480p.mp4/index-v1-a1.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - %D8%B9%D9%85%D8%B1%20%D9%88%D8%AF%D9%8A%D8%A7%D8%A8%20%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9%2030
+https://cdn.alarab.com/h264/156600_480p.mp4/index-v1-a1.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - 30 Youm 3ez
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/222448.mp4?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - 30 Youm Fi Ezz
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/222447.mp4?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Undefined",ahlakid.com - kkr
+http://stream.kkr.dk/live/kkr/chunklist_w832247479.m3u8?checkedby:ahlakid.com
+#EXTINF:-1 group-title="Religious" tvg-logo="http://vidmgr.abnvideos.com/images/playlists/phpENpJQS.jpeg",ahlakid.com - ABNsat
+http://rtmp1.abnsat.com/hls/arabic.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/vn9jvdV.png",ahlakid.com - Africa TV1 (720p)
+http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/vn9jvdV.png",ahlakid.com - Africa TV2 (720p) [Not 24/7]
+http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/j1Xmygq.jpg",ahlakid.com - Ajyal TV (720p)
+http://htvajyal.mada.ps:8888/ajyal/index.m3u8
+#EXTINF:-1  tvg-logo="http://jascotvstreaming.com/uploads/topics/15592492499912.jpg",ahlakid.com - Al Alamiya 2
+http://82.212.74.98:8000/live/7815.m3u8
+#EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/9HocMyE.jpg",ahlakid.com - Al Hayat TV (720p)
+http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream/playlist.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="http://jascotvstreaming.com/uploads/topics/15819734874770.jpg",ahlakid.com - AL HOKAIR Group TV
+http://82.212.74.3:8000/live/7513.m3u8
+#EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/VCfZB73.png",ahlakid.com - Al Horreya TV (1080p)
+http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/ZlmQSBl.png",ahlakid.com - Al Maghribia (360p)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/dmDzNQO.png",ahlakid.com - Al Manar (576p)
+https://manar.live/iptv/playlist.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://alrasheedmedia.com/wp-content/themes/alrasheedv4/alr-logo.png",ahlakid.com - Al Rasheed (408p)
+https://media1.livaat.com/AL-RASHEED-HD/index.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="http://alsharqiyatv.info/tv.jpg",ahlakid.com - Al Sharqiya (450p)
+http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/qNi4rwG.jpg",ahlakid.com - Al Sharqiya News (450p)
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/ffFbUmd.jpg",ahlakid.com - Al Zahra TV
+https://live.al-zahratv.com/live/playlist2/index.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/H8SaZXN.png",ahlakid.com - Alfajer Tv HD 1 (720p)
+https://www.elahmad.com/tv/m3u8/online_tv.m3u8?id=alfajertv
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/H8SaZXN.png",ahlakid.com - Alfajer Tv HD 2 (720p)
+http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://www.alghadye.com/wp-content/uploads/2018/07/image1.png",ahlakid.com - Alghad Almushreq
+http://82.212.74.3:8000/live/7512.m3u8
+#EXTINF:-1 group-title="Religious" tvg-logo="https://i2.wp.com/en.alkarmatv.com/wp-content/uploads/2020/02/Logo-Family.png",ahlakid.com - Alkarma TV Family (1080p)
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaNA2.smil/playlist.m3u8
+#EXTINF:-1 group-title="Religious" tvg-logo="https://i2.wp.com/en.alkarmatv.com/wp-content/uploads/2020/02/Logo-ME.png",ahlakid.com - Alkarma TV Middle East (1080p)
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame1.smil/playlist.m3u8
+#EXTINF:-1 group-title="Religious" tvg-logo="https://i0.wp.com/en.alkarmatv.com/wp-content/uploads/2020/02/Logo-NA.png",ahlakid.com - Alkarma TV North America & Canada (1080p)
+https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmana1.smil/playlist.m3u8
+#EXTINF:-1 group-title="Religious" tvg-logo="https://i0.wp.com/en.alkarmatv.com/wp-content/uploads/2020/02/Logo-Praise.png",ahlakid.com - Alkarma TV Praise (1080p)
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmapa.smil/playlist.m3u8
+#EXTINF:-1 group-title="Religious" tvg-logo="https://i1.wp.com/en.alkarmatv.com/wp-content/uploads/2020/02/Logo-Talmaza.png",ahlakid.com - Alkarma TV Talmaza (Discipleship) (1080p)
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame2.smil/playlist.m3u8
+#EXTINF:-1 group-title="Religious" tvg-logo="https://i0.wp.com/en.alkarmatv.com/wp-content/uploads/2020/11/Logo-US-1024x576-1.png",ahlakid.com - Alkarma TV Youth & English (1080p)
+https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmaus.smil/playlist.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/vkqYIO4.jpg",ahlakid.com - Amman TV (720p)
+https://ammantv.c.s73cdn.net/23153d43-375a-472a-bc5f-9827582b5d22/elemental/live/master.m3u8
+#EXTINF:-1 group-title="Business" tvg-logo="https://asharq.com/asharq-preview-logo.png",ahlakid.com - Asharq (1080p)
+https://bcsecurelivehls-i.akamaihd.net/hls/live/1021447/6203311941001/index.m3u8
+#EXTINF:-1 ,ahlakid.com - Asharq (1080p)
+https://bcsecurelivehls-i.akamaihd.net/hls/live/1021447/6203311941001/master.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://atfal1.com/wp-content/uploads/2018/02/logo.png",ahlakid.com - Atfal Wa Mawaheb (1080p)
+https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8
+#EXTINF:-1 ,ahlakid.com - Audeh (480p)
+http://htvpalsat.mada.ps:8888/audeh/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/G9BMhDS.png",ahlakid.com - Bahrain Sports 1 (720p)
+http://185.105.4.106:1935/live/Bahrain%20Sports/playlist.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/XZcLqWk.jpg",ahlakid.com - Bahrain TV (720p)
+http://185.105.4.106:1935/live/Bahrain%20TV/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/oFGPG9Y.png",ahlakid.com - BBC Arabic (720p)
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_dash_live.mpd
+#EXTINF:-1 group-title="Outdoor" tvg-logo="https://i.imgur.com/7aD1yan.jpg",ahlakid.com - Beity
+http://82.212.74.2:8000/live/7312.m3u8
+#EXTINF:-1 group-title="Religious" tvg-logo="https://kreim-storage.fra1.digitaloceanspaces.com/APP%20Logo%20PNG.png",ahlakid.com - CharityTV (1080p)
+http://185.105.4.236:1935/live/ngrp:livestream_all/live.m3u8
+#EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/PfFJy5E.png",ahlakid.com - Christian Youth Channel (CYC) (1080p)
+http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8
+#EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/4s1NlRf.jpg",ahlakid.com - CNA (Chaîne Nord Africaine) (360p)
+https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/logo-new1.png",ahlakid.com - Dijlah (576p)
+http://91.134.145.75:10001/Dijlah/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/tarab-logo.png",ahlakid.com - Dijlah Tarab (576p)
+https://ghaasiflu.online/tarab/index.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/WjJ8MHC.png",ahlakid.com - Dubai One (1080p)
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/wup8DKR.jpg",ahlakid.com - Elbeshara GTV
+http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/playlist.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="http://jascotvstreaming.com/uploads/topics/15817550307058.png",ahlakid.com - EN TV
+http://82.212.74.100:8000/live/8130.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/61MSiq9.png",ahlakid.com - France 24 Arabic (1080p)
+https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/61MSiq9.png",ahlakid.com - France 24 Arabic (576p)
+https://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
+#EXTINF:-1 ,ahlakid.com - like Gecko) Chrome/91.0.4472.124 Safari/537.36
+http://teledunet.com:8080/live/azrotv/azrotv2021/10007.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/RPwKZUD.jpg",ahlakid.com - iFILM Arabic (720p)
+https://live.presstv.ir/ifilmlive/smil:ifilmar.smil/playlist.m3u8
+#EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/ocyh4DD.jpg",ahlakid.com - Imam Hussein TV 2 Arabic
+https://ar.imamhusseintv.com/live/ih201/index.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://www.ljbctv.tv/logo.png",ahlakid.com - Jamahiria TV
+https://master.starmena-cloud.com/hls/jam.m3u8
+#EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/q2qHUKF.png",ahlakid.com - Kaif TV
+http://82.212.74.2:8000/live/hls/7311.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="http://www.1arablive.com/livetv/assets/images/1524006480.jpg",ahlakid.com - Libya Channel [Not 24/7]
+https://master.starmena-cloud.com/hls/libyas.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/J7GdM3L.png",ahlakid.com - M24 TV HD (720p)
+http://79.137.106.241/live/smil:OutStream1.smil/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/PeIYCXs.jpg",ahlakid.com - Marah FM (720p)
+http://vstream3.hadara.ps:8081/marahFM_web/web/playlist.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/PEFW4Vy.png",ahlakid.com - MusawaChannel (404p)
+http://htvpalsat.mada.ps:8888/musawa/index.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://nabaa.tv/wp-content/uploads/2018/07/nabaa-logo-66x116.png",ahlakid.com - Nabaa TV
+http://31.14.40.237:1935/live/Nabaa/chunklist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://nabaa.tv/wp-content/uploads/2018/07/nabaa-logo-66x116.png",ahlakid.com - Nabaa TV (480p)
+https://5dc7d824154d0.streamlock.net/live/Nabaa/playlist.m3u8
+#EXTINF:-1 ,ahlakid.com - Nablus TV (720p)
+http://htvmada.mada.ps:8888/nabluslive/index.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Nat_geo_channel_abu_dhabi.png/220px-Nat_geo_channel_abu_dhabi.png",ahlakid.com - National Geographic Abu Dhabi (1080p)
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+#EXTINF:-1 ,ahlakid.com - NBN HD (720p)
+https://nbntv.me:8443/nbntv/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://storage.googleapis.com/nogoumfm-eu-web/1/2019/12/logo-nogoum-1.png",ahlakid.com - Nogoum FM TV (180p)
+https://stream-speed.extremesolution.mobi/nogoumfm/nogoumfmlive/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://omgchannel.net/image/cache/catalog/logo-210x89.png",ahlakid.com - Omg Channel TV (720p)
+http://media6.smc-host.com:1935/omgchannel.net/omgtv/playlist.m3u8
+#EXTINF:-1 ,ahlakid.com - like Gecko) Chrome/91.0.4472.124 Safari/537.36
+http://teledunet.com:8080/live/azrotv/azrotv2021/10015.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/bYz6HUG.png",ahlakid.com - Palestine Mubasher (404p)
+http://htvpalsat.mada.ps:8888/PBCLive/index.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/KcSgZg0.jpg",ahlakid.com - Palestine Satellite Channel (404p)
+http://htvpalsat.mada.ps:8888/PBC/index.m3u8
+#EXTINF:-1 ,ahlakid.com - palestiniantv (720p)
+http://palestiniantv.origin.technostreaming.net:8081/palestiniantv_source/live/playlist.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="http://www.qtv.qa/assets/images/logos/qtv.png",ahlakid.com - Qatar TV (720p)
+https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="http://www.qtv.qa/assets/images/logos/qtvTwo2.png",ahlakid.com - Qatar TV 2 (720p)
+https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="http://service.mobile.rotanaradio.jo/sites/default/files/studio.png",ahlakid.com - Rotana Radio Jordan (220p)
+http://188.247.86.66/RotanaRadio/OnAirStudio1/playlist.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/Sa2nBTP.png",ahlakid.com - Roya TV (720p)
+https://weyyak-live.akamaized.net/weyyak_roya/index.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://saheltv.tn/wp-content/uploads/2018/03/saheltv_logox2.png",ahlakid.com - Sahel TV (720p)
+http://142.44.214.231:1935/saheltv/myStream/playlist.m3u8
+#EXTINF:-1 ,ahlakid.com - Shabab FM (720p) [Not 24/7]
+https://streaming.zaytonatube.com:8081/ShababFM/shabab/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/RzPOwqI.png",ahlakid.com - Spacetoon (576p)
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://content.weyyak.com/8ff99681-4dd8-4e97-aa18-de4a866ef0fd/poster-image",ahlakid.com - Ten TV (720p)
+https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
+#EXTINF:-1 group-title="Travel" tvg-logo="https://i.imgur.com/cZM2t0P.png",ahlakid.com - Tunisie Immobilier TV
+https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/chunklist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://www.tvseventeen.com/img/logo.png",ahlakid.com - TV Seventeen (720p)
+https://cdn.tvseventeen.com/test_tv_seventeen/index.m3u8
+#EXTINF:-1 ,ahlakid.com - Wattan TV (720p)
+http://htvmada.mada.ps:8888/wattan/index.m3u8
+#EXTINF:-1  tvg-logo="https://content.weyyak.com/207c8580-318d-ea11-831d-02d662556796/poster-image",ahlakid.com - Weyyak Action (720p)
+https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://content.weyyak.com/d995517f-bc87-ea11-831d-02d662556796/poster-image",ahlakid.com - Weyyak Drama (720p)
+https://weyyak-live.akamaized.net/weyyak_drama/index.m3u8
+#EXTINF:-1  tvg-logo="https://content.weyyak.com/bc777336-328d-ea11-831d-02d662556796/poster-image",ahlakid.com - Weyyak Mix (720p)
+https://weyyak-live.akamaized.net/weyyak_mix/index.m3u8
+#EXTINF:-1  tvg-logo="https://content.weyyak.com/d867c2e9-328d-ea11-831d-02d662556796/poster-image",ahlakid.com - Weyyak Nawaem (720p)
+https://weyyak-live.akamaized.net/weyyak_nawaem/index.m3u8
+#EXTINF:-1  tvg-logo="https://content.weyyak.com/5a7c9610-5562-407b-b711-f31ce6267786/poster-image",ahlakid.com - Zee Aflam (720p)
+https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
+#EXTINF:-1  tvg-logo="https://content.weyyak.com/25a860af-4bbc-4289-8e1f-b3bed0dcc64a/poster-image",ahlakid.com - Zee Alwan (720p)
+https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
+#EXTINF:-1 group-title="قنوات المصرية",ahlakid.com - ajyal
+http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="NEWS قنوات الاخبار",ahlakid.com - AR:France24
+http://f24hls-i.akamaihd.net/hls/live/221148/F24_AR_HI_HLS/master_900.m3u8
+#EXTINF:-1 group-title="NEWS قنوات الاخبار",ahlakid.com - AR:Al Hurra
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+#EXTINF:-1 group-title="SPORT",ahlakid.com - ALKASS_1
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+#EXTINF:-1 group-title="SPORT",ahlakid.com - ALKASS_2
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+#EXTINF:-1 group-title="SPORT",ahlakid.com - ALKASS_3
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+#EXTINF:-1 group-title="SPORT",ahlakid.com - ALKASS_4
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+#EXTINF:-1 group-title="SPORT",ahlakid.com - ALKASS_5
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+#EXTINF:-1 group-title="SPORT",ahlakid.com - Dubai SPORT
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="SPORT",ahlakid.com - DubaiRacing 2
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="SPORT",ahlakid.com - البحرين الرياضية
+http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8
+#EXTINF:-1 group-title="SPORT",ahlakid.com - maroc SPORT
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+#EXTINF:-1 group-title="KURDISH",ahlakid.com - kurdshow
+http://31.14.40.139:1935/liveTrans/SHOW1/playlist.m3u8
+#EXTINF:-1 group-title="KURDISH",ahlakid.com - KURDMAX
+http://31.14.40.139:1935/liveTrans/ngrp:myStream2_all/playlist.m3u8
+#EXTINF:-1 group-title="KURDISH",ahlakid.com - kurd max
+http://31.14.40.139:1935/liveTrans/myStream/chunklist_w1174064262.m3u8
+#EXTINF:-1 group-title="KURDISH",ahlakid.com - kurd SHOW1
+http://31.14.40.139:1935/liveTrans/SHOW1/chunklist_w1057724583.m3u8
+#EXTINF:-1 ,ahlakid.com - %D8%B3%D9%84%D8%B7%D8%A7%D9%86%D8%A9%20%D8%A7%D9%84%D9%85%D8%B9%D8%B2%20%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9%2030
+https://cdn.alarab.com/h264/156595_480p.mp4/index-v1-a1.m3u8
+#EXTINF:-1 ,ahlakid.com - %D8%B9%D9%85%D8%B1%20%D9%88%D8%AF%D9%8A%D8%A7%D8%A8%20%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9%2030
+https://cdn.alarab.com/h264/156600_480p.mp4/index-v1-a1.m3u8
+#EXTINF:-1 ,ahlakid.com - %D8%A3%D8%AD%D9%84%D9%89%20%D8%A3%D9%8A%D8%A7%D9%85%20%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9%2030
+https://cdn.alarab.com/h264/156611_480p.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="قنوات اسلامية",ahlakid.com - bahrain_quaran
+http://www.elahmad.com/tv/m3u8/bahraintv.m3u8?
+#EXTINF:-1 group-title="قنوات اسلامية",ahlakid.com - Nour Dubai
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=noordubaitv
+#EXTINF:-1 group-title="قنوات اسلامية",ahlakid.com - Quran Stream
+http://144.76.84.153:21494/stream
+#EXTINF:-1 group-title="قنوات اسلامية",ahlakid.com - Love Quran Radio
+http://158.69.227.214:8191/stream
+#EXTINF:-1 ,ahlakid.com - AR:MR-TAMAZIGHT HD
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/tamazight_tv8_snrt-avc1_1500000=4-mp4a_130400_qad=1.m3u8?
+#EXTINF:-1 ,ahlakid.com - AR:MR-MAB TV News
+http://79.137.106.241/live/smil:OutStream1.smil/chunklist_w605955827_b4500000_sleng.m3u8?v=
+#EXTINF:-1 ,ahlakid.com - AR:MR-AL MAGHRIBIA HD TNT
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+#EXTINF:-1 ,ahlakid.com - AR:MR-M24
+http://79.137.106.241/live/smil:OutStream1.smil/chunklist_w185528531_b4500000_sleng.m3u8?v=
+#EXTINF:-1 ,ahlakid.com - AR:TN-SAHEL TV HD
+https://5ac31d8a4c9af.streamlock.net/saheltv/_definst_/myStream/chunklist_w1277677680.m3u8
+#EXTINF:-1 ,ahlakid.com - Ar:SPACETOON+
+http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/chunklist_w693439211_b346000_slAR.m3u8
+#EXTINF:-1 ,ahlakid.com - Ar:SPACETOON++
+http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/chunklist_w2129290003_b346000_slAR.m3u8?sd=10&rebase=on
+#EXTINF:-1 ,ahlakid.com - AR:PAL-Palestine
+http://htvpalsat.mada.ps:8888/PBC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,ahlakid.com - AR:PAL-Musawa tv
+http://htvpalsat.mada.ps:8888/musawa/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,ahlakid.com - AR:PAL-Palestine live
+http://htvpalsat.mada.ps:8888/PBCLive/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,ahlakid.com - AR:PAL-Awdeh Palestine
+http://htvpalsat.mada.ps:8888/audeh/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,ahlakid.com - AR:BAHRAIN TV
+http://185.105.4.106:1935/live/Bahrain%20TV/chunklist.m3u8
+#EXTINF:-1 ,ahlakid.com - AR:LBN-Future TV
+http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8
