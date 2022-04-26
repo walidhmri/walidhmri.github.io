@@ -1,0 +1,43 @@
+#footerpad {
+  padding-top: 4em;
+  padding-bottom: 2em;
+  background-color: #ffffff;
+}
+
+#powered-by {
+  text-decoration: none;
+  color: rgb(97,0,255);
+}
+
+#social-footer-icon-facebook {
+  color: #0e90f2;
+}
+
+#social-footer-icon-facebook:focus, #social-footer-icon-facebook:hover {
+  color: #0593ff;
+}
+
+#social-footer-icon-twitter {
+  color: #1da1f2;
+}
+
+#social-footer-icon-twitter:focus, #social-footer-icon-twitter:hover {
+  color: rgba(29,161,242,0.91);
+}
+
+#social-footer-icon-instagram {
+  color: #ec3e51;
+}
+
+#social-footer-icon-instagram:focus, #social-footer-icon-instagram:hover {
+  color: #ff4e64;
+}
+
+#social-footer-icon-whatsapp {
+  color: #40c351;
+}
+
+#social-footer-icon-whatsapp:focus, #social-footer-icon-whatsapp:hover {
+  color: #4de961;
+}
+
