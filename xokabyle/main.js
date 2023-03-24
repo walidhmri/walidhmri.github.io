@@ -63,7 +63,7 @@ function yervah() {
         document.getElementById('but').style.visibility = 'visible';
         exitFunc();
     }
-    else if (sqr[9] == 'X' || sqr[9] == 'O') {
+    else if (sqr[1] != '' && sqr[2] != '' && sqr[3] != '' && sqr[4] != '' && sqr[5] != '' && sqr[6] != '' &&  sqr[7] != '' && sqr[8] != '' && sqr[9] != '') {
         document.getElementById('but').style.visibility = 'visible';
     }
 
