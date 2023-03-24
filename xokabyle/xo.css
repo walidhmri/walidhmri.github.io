@@ -1,4 +1,5 @@
 
+
 /*  Vous pouvez utiliser ce code gratuitement ** Oualid Hamri */
 
 .xogame {
@@ -6,13 +7,18 @@
     width: 600px;
     text-align: center;
     color: white;
-    background-color: brown;
+    background-color: #FFFF33;
     margin: auto;
 }
 
+.titlereload {
+    color: aqua;
+    font-size: 14px;
+}
+
 .title {
-    color: antiquewhite;
-    background: brown;
+    color: rgb(44, 2, 226);
+    background: #FFFF33;
     font-size: 40px;
     text-align: center;
 }
@@ -20,20 +26,22 @@
 .square {
     width: 180px;
     height: 180px;
-    background: rgb(224, 51, 209);
+    background: rgb(224, 51, 51);
     float: left;
     margin: 2px;
     font-size: 120px;
     align-items: center;
+    color: rgb(0, 34, 255);
 }
 
 .square:hover {
-    background: red;
+    background: rgb(25, 80, 6);
+
 }
 
 button {
     visibility: hidden;
-    background: blueviolet;
+    background: rgb(217, 30, 111);
     color: white;
     font-size: 20px;
     border-radius: 40px;
