@@ -49,17 +49,17 @@ function yervah() {
         exitFunc();
     }
     else if (sqr[3] == sqr[6] && sqr[6] == sqr[9] && sqr[3] != '') {
-        title.innerHTML = 'Yervah ' + sqr[7];
+        title.innerHTML = 'Yervah ' + sqr[3];
         document.getElementById('but').style.visibility = 'visible';
         exitFunc();
     }
     else if (sqr[1] == sqr[5] && sqr[5] == sqr[9] && sqr[1] != '') {
-        title.innerHTML = 'Yervah ' + sqr[7];
+        title.innerHTML = 'Yervah ' + sqr[1];
         document.getElementById('but').style.visibility = 'visible';
         exitFunc();
     }
     else if (sqr[3] == sqr[5] && sqr[5] == sqr[7] && sqr[3] != '') {
-        title.innerHTML = 'Yervah ' + sqr[7];
+        title.innerHTML = 'Yervah ' + sqr[3];
         document.getElementById('but').style.visibility = 'visible';
         exitFunc();
     }
