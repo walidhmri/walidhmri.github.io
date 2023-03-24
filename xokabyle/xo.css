@@ -1,0 +1,41 @@
+.xogame {
+
+    width: 600px;
+    text-align: center;
+    color: white;
+    background-color: brown;
+    margin: auto;
+}
+
+.title {
+    color: antiquewhite;
+    background: brown;
+    font-size: 40px;
+    text-align: center;
+}
+
+.square {
+    width: 180px;
+    height: 180px;
+    background: rgb(224, 51, 209);
+    float: left;
+    margin: 2px;
+    font-size: 120px;
+    align-items: center;
+}
+
+.square:hover {
+    background: red;
+}
+
+button {
+    visibility: hidden;
+    background: blueviolet;
+    color: white;
+    font-size: 20px;
+    border-radius: 40px;
+}
+
+.glo {
+    align-items: center;
+}
