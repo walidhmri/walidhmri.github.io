@@ -1,24 +1,29 @@
-
-
 /*  Vous pouvez utiliser ce code gratuitement ** Oualid Hamri */
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&display=swap');
+
+body {
+    background-image: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b0f9df43-66d7-4c01-8984-23873a767e8f/d3ksx36-984e3a16-6b72-45a6-b304-6f913ac96adc.jpg/v1/fill/w_900,h_679,q_75,strp/berber_flag_by_sepultura120_d3ksx36-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Njc5IiwicGF0aCI6IlwvZlwvYjBmOWRmNDMtNjZkNy00YzAxLTg5ODQtMjM4NzNhNzY3ZThmXC9kM2tzeDM2LTk4NGUzYTE2LTZiNzItNDVhNi1iMzA0LTZmOTEzYWM5NmFkYy5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.x0lB695PdBQdJPJ0HHm6E5J2mZwCw1D61VHzx0SWUG0');
+    font-family: 'Dancing Script', cursive;
+
+}
 
 .xogame {
 
     width: 600px;
     text-align: center;
     color: white;
-    background-color: #FFFF33;
     margin: auto;
 }
 
 .titlereload {
-    color: black;
+    color: aqua;
     font-size: 14px;
 }
 
 .title {
-    color: rgb(44, 2, 226);
-    background: #FFFF33;
+    color: rgb(255, 255, 255);
+    background: transparent;
+
     font-size: 40px;
     text-align: center;
 }
@@ -27,11 +32,13 @@
     width: 180px;
     height: 180px;
     background: rgb(224, 51, 51);
+    opacity: 0.8;
+
     float: left;
     margin: 2px;
     font-size: 120px;
     align-items: center;
-    color: rgb(0, 34, 255);
+    color: rgb(255, 255, 255);
 }
 
 .square:hover {
@@ -40,12 +47,15 @@
 }
 
 
+
 .glo {
     align-items: center;
 }
-/* button not created by me */
+
+
+
 .button-52 {
-    font-size: 16px;
+    font-size: 20px;
     font-weight: 200;
     letter-spacing: 1px;
     padding: 13px 20px 13px;
@@ -57,11 +67,13 @@
     user-select: none;
     -webkit-user-select: none;
     touch-action: manipulation;
+    font-family: 'Dancing Script', cursive;
+
 }
 
 .button-52:after {
     content: "";
-    background-color: #d8ff4c;
+    background-color: #4cd2ff;
     width: 100%;
     z-index: -1;
     position: absolute;
@@ -80,4 +92,13 @@
     .button-52 {
         padding: 13px 50px 13px;
     }
+}
+
+h3 {
+    color: aquamarine;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(47, 255, 0);
 }
