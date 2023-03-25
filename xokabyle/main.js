@@ -9,7 +9,7 @@ function a3awed() {
     document.getElementById('but').style.visibility = 'visible';
 
     setTimeout(() => {
-        document.location.reload();
+        history.go(0);
     }, 3000);
 }
 function yervah() {
