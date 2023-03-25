@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&display=swap');
 
 body {
-    background-image: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b0f9df43-66d7-4c01-8984-23873a767e8f/d3ksx36-984e3a16-6b72-45a6-b304-6f913ac96adc.jpg/v1/fill/w_900,h_679,q_75,strp/berber_flag_by_sepultura120_d3ksx36-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Njc5IiwicGF0aCI6IlwvZlwvYjBmOWRmNDMtNjZkNy00YzAxLTg5ODQtMjM4NzNhNzY3ZThmXC9kM2tzeDM2LTk4NGUzYTE2LTZiNzItNDVhNi1iMzA0LTZmOTEzYWM5NmFkYy5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.x0lB695PdBQdJPJ0HHm6E5J2mZwCw1D61VHzx0SWUG0');
+    background-image: url('/images/background.jpeg');
     font-family: 'Dancing Script', cursive;
 
 }
