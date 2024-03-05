@@ -55,6 +55,24 @@
     <footer>
         <p> Contactez-nous : info@cafedumonde.com | +33 1 23 45 67 89</p>
     </footer>
+
+<!--pour la responsivité de la page-->
+<script>
+    window.onload = function() {
+      var isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
+      var monlist = document.getElementById("l2");
+      var monlist2 = document.getElementById("l21");
+  
+      if (isMobile) {
+        monlist.classList.remove("l2");
+        monlist2.classList.remove("l2");
+      } else {
+        monlist.classList.add("l2");
+        monlist2.classList.add("l2");
+      }
+    };
+  </script>
+    
 </body>
 
 </html>
