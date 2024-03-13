@@ -1,22 +1,23 @@
 body{
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    background-image: url("/images/back.jpg");
-    color: aliceblue;
-    text-shadow: -1px 1px 0 #000,1px 1px 0 #000,1px -1px 0 #000,-1px -1px 0 #000;
+    color: rgb(0, 0, 0);
     background-size: cover;
     background-position: 0 0;
 }
 header {
     margin: auto;
     padding: 10px;
-    background-color:rgba(18, 252, 18, 0.76);
+    background-color:#6a8e22;
     text-align: center;
     color: aliceblue;
+    text-shadow: -1px 1px 0 #000000,1px 1px 0 #a15b5b,1px -1px 0 #a15b5b,-1px -1px 0 #a15b5b;
+
 }
 
-main{margin: auto;padding: 10px;background-color:#0000007e;}
+main{margin: auto;padding: 10px;}
  li {margin: 5px;display: inline;
 }
+
 .navigation li a{
     text-decoration: none;
     color: aliceblue;
@@ -29,9 +30,20 @@ main{margin: auto;padding: 10px;background-color:#0000007e;}
     text-decoration:underline;
     color: red;
 }
+.pics ul{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+
+}
 .pics li{
     display: inline-block;
     font-size: 14px;
+    flex: 1;
+
+
 }
 .pics li p{
     opacity: 0.8;
