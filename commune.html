@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="fr">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>recherche dans fichier json depuis un lien</title>
+    <style>
+        body {
+            font-family: arial, sans-serif;
+            padding: 20px;
+        }
+        #results {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>recherche dans fichier json</h1>
+
+    <label for="jsonurl">url du fichier json:</label>
+    <input type="text" id="jsonurl" placeholder="entrez l'url du fichier json">
+    <button onclick="loadjson()">charger le fichier json</button>
+    <br><br>
+
+    <label for="searchinput">rechercher:</label>
+    <input type="text" id="searchinput" placeholder="entrez un terme de recherche">
+    <button onclick="searchinjson()">rechercher</button>
+
+    <div id="results"></div>
+
+    <script>
+        let jsondata = [];
+
+        function loadjson() {
+            const url = document.getelementbyid('jsonurl').value;
+            if (!url) {
+                alert('veuillez entrer une url valide.');
+                return;
+            }
+
+            fetch(url)
+                .then(response => response.json())
+                .then(data => {
+                    jsondata = data;
+                    alert('fichier json chargé avec succès!');
+                })
+                .catch(error => {
+                    alert('erreur lors du chargement du fichier json.');
+                });
+        }
+
+        function searchinjson() {
+            const searchterm = document.getelementbyid('searchinput').value.toLowerCase();
+            const resultscontainer = document.getelementbyid('results');
+            resultscontainer.innerhtml = '';
+
+            if (jsondata.length === 0) {
+                resultscontainer.innerhtml = 'aucun fichier json chargé.';
+                return;
+            }
+
+            const results = jsondata.filter(item => {
+                return object.values(item).some(value =>
+                    string(value).tolowercase().includes(searchterm)
+                );
+            });
+
+            if (results.length > 0) {
+                const ul = document.createelement('ul');
+                results.foreach(result => {
+                    const li = document.createelement('li');
+                    li.textcontent = json.stringify(result);
+                    ul.appendchild(li);
+                });
+                resultscontainer.appendchild(ul);
+            } else {
+                resultscontainer.innerhtml = 'aucun résultat trouvé.';
+            }
+        }
+    </script>
+</body>
+</html>
