@@ -1,0 +1,52 @@
+{
+  "modules": [
+    {
+      "id": "module1",
+      "name": "Algorithmes et Structures de Données Avancées",
+      "description": "Ce module couvre les concepts avancés des algorithmes et des structures de données.",
+      "content": {
+        "tp_td": [
+          { "name": "TP 1: Arbres Binaires", "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf" },
+          { "name": "TD 1: Graphes", "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf" }
+        ],
+        "cours": [
+          { "name": "Cours 1: Introduction aux algorithmes avancés", "url": "https://pdfobject.com/pdf/sample.pdf" },
+          { "name": "Cours 2: Structures de données complexes", "url": "https://pdfobject.com/pdf/sample.pdf" }
+        ],
+        "exams": [
+          { "name": "Examen 2022", "url": "https://pdfobject.com/pdf/sample.pdf" },
+          { "name": "Examen 2023", "url": "https://pdfobject.com/pdf/sample.pdf" }
+        ]
+      }
+    },
+    {
+      "id": "module2",
+      "name": "Réseaux et Systèmes Distribués",
+      "description": "Ce module explore les concepts fondamentaux des réseaux informatiques et des systèmes distribués.",
+      "content": {
+        "tp_td": [
+          { "name": "TP 1: Configuration d'un réseau local", "url": "https://pdfobject.com/pdf/sample.pdf" },
+          { "name": "TD 1: Protocoles de routage", "url": "https://pdfobject.com/pdf/sample.pdf" }
+        ],
+        "cours": [{ "name": "Cours 1: Introduction aux réseaux", "url": "https://pdfobject.com/pdf/sample.pdf" }],
+        "exams": [{ "name": "Examen 2023", "url": "https://pdfobject.com/pdf/sample.pdf" }]
+      }
+    },
+    {
+      "id": "module3",
+      "name": "Systèmes Distribués",
+      "description": "Ce module explore les concepts fondamentaux des réseaux informatiques et des systèmes distribués.",
+      "content": {
+        "tp_td": [
+          { "name": "TP 1: Configuration d'un réseau local", "url": "https://pdfobject.com/pdf/sample.pdf" },
+          { "name": "izzan", "url": "https://pdfobject.com/pdf/sample.pdf" },
+
+          { "name": "TD 1: Protocoles de routage", "url": "https://pdfobject.com/pdf/sample.pdf" }
+        ],
+        "cours": [{ "name": "Cours 1: Introduction aux réseaux", "url": "https://pdfobject.com/pdf/sample.pdf" }],
+        "exams": [{ "name": "Examen 2023", "url": "https://pdfobject.com/pdf/sample.pdf" }]
+      }
+    }
+  ]
+}
+
