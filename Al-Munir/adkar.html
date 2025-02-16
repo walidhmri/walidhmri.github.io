@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="ar">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/x-icon" href="./assets/imgs/favicon.ico" />
+    <link rel="stylesheet" href="./assets/css/style.css" />
+    <link rel="stylesheet" href="./assets/css/style.min.css" />
+    <link rel="stylesheet" href="./assets/css/dialog.min.css" />
+    <link rel="stylesheet" href="./assets/css/adkar.css" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="الأذكار اليومية - صديقك الدائم"
+    />
+    <meta name="keywords" content="اذكار, الصباح, المساء, دعاء" />
+    <title>الأذكار | Al-Munir</title>
+    <link rel="stylesheet" href="./assets/css/style.min.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="site-description">
+        <img class="logo" src="./assets/imgs/Al-Munir.png" alt="Logo" />
+        <p>الأذكار اليومية - صديقك الدائم</p>
+        <div class="navigation-buttons">
+          <a href="./index.html" class="nav-button">
+            العودة للقرآن الكريم
+          </a>
+        </div>
+      </div>
+      <!-- New category dropdown container centered -->
+      <div class="category-select-container" style="text-align: center;">
+        <select id="categorySelect" onchange="chooseCategory(this.value)">
+          <option value="">عرض الكل</option>
+          <!-- Options populated via JavaScript -->
+        </select>
+        <!-- New mass play toggle -->
+        <label id="massPlayLabel" style="margin-left:10px; font-size:1.1em;">
+          <input type="checkbox" id="massPlayToggle" /> تشغيل جماعي
+        </label>
+      </div>
+      <div class="adkar-container">
+        <div id="adkarList" class="adkar-list"></div>
+      </div>
+    </div>
+    <script src="./assets/js/adkar.js"></script>
+  </body>
+</html>

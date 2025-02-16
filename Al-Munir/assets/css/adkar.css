@@ -1,0 +1,103 @@
+.adkar-item {
+    border: 2px solid #4CAF50;
+    border-radius: 12px;
+    padding: 20px;
+    margin: 10px 0;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    background: #f9fff9;
+    transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+}
+
+.adkar-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+}
+
+.adkar-text {
+    font-size: 1.3em; /* increased from 1.1em */
+    color: #333;
+    line-height: 1.5;
+    text-align: justify;
+    padding: 10px;
+}
+
+/* Style category titles inside the adkar list */
+.adkar-list h2 {
+    font-size: 1.7em; /* increased from 1.5em */
+    color: #4CAF50;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.category-select-container select {
+    border: 2px solid #4CAF50;
+    border-radius: 8px;
+    padding: 8px;
+    font-size: 1.1em; 
+    margin: 10px auto;
+    background: #fff;
+    color: #333;
+}
+
+.adkar-item audio {
+    width: 100%;
+    max-width: 500px;
+    height: 40px;
+    margin-top: 10px;
+    border: 1px solid #4CAF50;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    background-color: #fff;
+}
+
+/* Improve appearance of webkit audio controls panel if supported */
+.adkar-item audio::-webkit-media-controls-panel {
+    background: #4CAF50;
+    border-radius: 8px;
+}
+
+.mass-player {
+    width: 100%;
+    max-width: 500px;
+    height: 40px;
+    margin: 10px auto; /* center horizontally */
+    display: block;
+    background: linear-gradient(45deg, #81c784, #66bb6a);
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+    overflow: hidden;
+}
+
+.mass-player:focus {
+    outline: none;
+    box-shadow: 0 0 0 2px #66bb6a;
+}
+
+.mass-player::-webkit-media-controls-panel {
+    background: linear-gradient(45deg, #81c784, #66bb6a);
+    border-radius: 10px;
+}
+
+.mass-player::-webkit-media-controls-play-button {
+    filter: invert(100%);
+}
+
+.play-btn {
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+    margin-right: 10px;
+    vertical-align: middle;
+    outline: none;
+    transition: transform 0.2s ease-in-out;
+}
+
+.play-btn:hover {
+    transform: scale(1.1);
+}
+
+.play-btn svg {
+    display: block;
+}
