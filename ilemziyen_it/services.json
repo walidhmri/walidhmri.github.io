@@ -1,0 +1,28 @@
+
+    [
+        {
+            "id": 1,
+            "name": "Cyber Security",
+            "img1": "image",
+            "description": "Delivering excellence through innovative project strategies."
+        },
+        {
+            "id": 2,
+            "name": "Project Alpha",
+            "img1": "image",
+            "description": "Delivering excellence through innovative project strategies."
+        },
+        {
+            "id": 3,
+            "name": "Cloud Migration Success",
+            "img1": "image",
+            "description": "Seamless transition to the cloud with minimal disruption."
+        },
+        {
+            "id": 4,
+            "name": "Securing Client Data",
+            "img1": "image",
+            "description": "Data protection strategies to keep client information safe."
+        }
+    ]
+ 
