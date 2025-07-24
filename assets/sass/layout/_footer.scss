@@ -1,0 +1,72 @@
+/*--------------------------------------------------------------
+4. wpo-footer
+--------------------------------------------------------------*/
+.wpo-site-footer {
+    position: relative;
+    font-size: 15px;
+    overflow: hidden;
+    padding: 80px 0;
+    background: $theme-primary-color;
+
+    @media(max-width:991px){
+      padding: 50px 0;
+    }
+
+    ul {
+        list-style: none;
+    }
+
+    p {
+        color: $white;
+        margin-bottom: 0;
+    }
+
+    li {
+        color: $white;
+    }
+
+    .container {
+        position: relative;
+    }
+
+    .logo {
+        font-weight: 450;
+        font-size: 40px;
+        line-height: 51px;
+        color: #fff;
+    }
+
+    .link-widget {
+        overflow: hidden;
+
+        ul {
+            display: flex;
+            justify-content: center;
+            margin: 20px 0;
+            li {
+                position: relative;
+
+                a {
+                    display: block;
+                    width: 40px;
+                    height: 40px;
+                    text-align: center;
+                    line-height: 42px;
+                    border: 1px solid $text-color2;
+                    color: $text-color2;
+                    font-size: 15px;
+                    border-radius: 50%;
+
+                    &:hover {
+                        background: $text-color2;
+                        color: $theme-primary-color;
+                    }
+                }
+            }
+
+            li+li {
+                margin-left: 15px;
+            }
+        }
+    }
+}
