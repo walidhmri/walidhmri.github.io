@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Redirection</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+        }
+        h1 {
+            font-size: 28px;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+
+    <h1 id="message">Redirection dans 5 secondes...</h1>
+
+    <script>
+        let seconds = 5;
+        const message = document.getElementById("message");
+
+        const countdown = setInterval(() => {
+            seconds--;
+            message.textContent = `Redirection dans ${seconds} seconde(s)...`;
+
+            if (seconds <= 0) {
+                clearInterval(countdown);
+                window.location.href = "http://161.97.108.74/Naftal-HelpDesk/public/"; // 🔁 change ici ton lien
+            }
+        }, 1000);
+    </script>
+
+</body>
+</html>
