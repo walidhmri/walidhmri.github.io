@@ -3,358 +3,539 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Naftal HelpDesk – Redirection</title>
-    <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@500;700&family=Exo+2:wght@300;400;600&display=swap" rel="stylesheet">
+    <title>Naftal HelpDesk – Support Project</title>
+    <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@500;600;700&family=Exo+2:wght@300;400;500;600&display=swap" rel="stylesheet">
     <style>
         :root {
-            --naftal-red: #c0392b;
-            --naftal-dark: #1a1a2e;
-            --naftal-mid: #16213e;
-            --naftal-accent: #e74c3c;
-            --naftal-gold: #f39c12;
-            --naftal-light: #ecf0f1;
+            --red:   #c0392b;
+            --red2:  #e74c3c;
+            --dark:  #0d1117;
+            --card:  #161b27;
+            --bdr:   rgba(192,57,43,0.28);
+            --gold:  #f39c12;
+            --teal:  #1abc9c;
+            --blue:  #3498db;
+            --text:  #cdd1de;
+            --muted: rgba(205,209,222,0.42);
         }
-
-        * { margin: 0; padding: 0; box-sizing: border-box; }
-
-        body {
-            min-height: 100vh;
-            background: var(--naftal-dark);
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            align-items: center;
-            font-family: 'Exo 2', sans-serif;
-            overflow: hidden;
-            position: relative;
+        *{margin:0;padding:0;box-sizing:border-box;}
+        html{scroll-behavior:smooth;}
+        body{
+            background:var(--dark);
+            font-family:'Exo 2',sans-serif;
+            color:var(--text);
+            overflow-x:hidden;
         }
-
-        /* ── Animated grid background ── */
-        body::before {
-            content: '';
-            position: fixed;
-            inset: 0;
+        body::before{
+            content:'';
+            position:fixed;inset:0;z-index:0;
             background:
-                linear-gradient(rgba(192,57,43,0.07) 1px, transparent 1px),
-                linear-gradient(90deg, rgba(192,57,43,0.07) 1px, transparent 1px);
-            background-size: 48px 48px;
-            animation: gridScroll 20s linear infinite;
-            pointer-events: none;
+                linear-gradient(rgba(192,57,43,0.045) 1px,transparent 1px),
+                linear-gradient(90deg,rgba(192,57,43,0.045) 1px,transparent 1px);
+            background-size:44px 44px;
+            animation:gridMove 24s linear infinite;
+            pointer-events:none;
+        }
+        @keyframes gridMove{
+            from{background-position:0 0}
+            to{background-position:44px 44px}
         }
 
-        @keyframes gridScroll {
-            from { background-position: 0 0; }
-            to   { background-position: 48px 48px; }
+        /* ─── TICKER ─── */
+        .ticker{
+            position:fixed;top:0;left:0;right:0;z-index:200;
+            background:var(--red);padding:7px 0;overflow:hidden;
+        }
+        .ticker-inner{
+            display:flex;width:max-content;
+            animation:tickRun 30s linear infinite;
+        }
+        .ticker-inner span{
+            font-family:'Rajdhani',sans-serif;
+            font-size:12px;font-weight:700;
+            letter-spacing:2.5px;text-transform:uppercase;
+            color:#fff;padding:0 56px;
+        }
+        .ticker-inner span::before{content:'⬥ ';color:var(--gold);}
+        @keyframes tickRun{
+            from{transform:translateX(0)}
+            to{transform:translateX(-50%)}
         }
 
-        /* ── Radial glow ── */
-        .glow-ring {
-            position: fixed;
-            width: 600px; height: 600px;
-            border-radius: 50%;
-            background: radial-gradient(circle, rgba(192,57,43,0.18) 0%, transparent 70%);
-            top: 50%; left: 50%;
-            transform: translate(-50%, -50%);
-            animation: pulse 3s ease-in-out infinite;
-            pointer-events: none;
+        /* ─── HERO ─── */
+        .hero{
+            position:relative;z-index:1;
+            min-height:100vh;
+            display:flex;flex-direction:column;
+            align-items:center;justify-content:center;
+            padding:100px 24px 64px;
+            text-align:center;
         }
-        @keyframes pulse {
-            0%, 100% { transform: translate(-50%, -50%) scale(1);   opacity: 0.7; }
-            50%       { transform: translate(-50%, -50%) scale(1.15); opacity: 1;   }
+        .logo-row{
+            display:flex;align-items:center;justify-content:center;
+            gap:16px;margin-bottom:22px;
+        }
+        .logo-box{
+            width:58px;height:58px;background:var(--red);border-radius:4px;
+            display:flex;align-items:center;justify-content:center;
+            font-family:'Rajdhani',sans-serif;font-size:26px;font-weight:700;color:#fff;
+            animation:boxGlow 2.4s ease-in-out infinite alternate;
+        }
+        @keyframes boxGlow{
+            from{box-shadow:0 0 14px rgba(192,57,43,0.45)}
+            to{box-shadow:0 0 34px rgba(192,57,43,1)}
+        }
+        .logo-label{
+            font-family:'Rajdhani',sans-serif;
+            font-size:30px;font-weight:700;
+            letter-spacing:3px;text-transform:uppercase;color:#fff;
+        }
+        .logo-label em{color:var(--red);font-style:normal;}
+
+        .tagline{
+            font-size:12px;letter-spacing:3px;text-transform:uppercase;
+            color:var(--muted);margin-bottom:14px;
+        }
+        .hero-title{
+            font-family:'Rajdhani',sans-serif;
+            font-size:clamp(30px,5vw,54px);font-weight:700;
+            color:#fff;line-height:1.1;margin-bottom:14px;
+        }
+        .hero-title span{color:var(--red);}
+        .hero-sub{
+            font-size:15px;color:var(--muted);
+            max-width:520px;line-height:1.75;margin-bottom:40px;
         }
 
-        /* ── Marquee ticker ── */
-        .ticker-wrap {
-            position: fixed;
-            top: 0; left: 0; right: 0;
-            background: var(--naftal-red);
-            padding: 8px 0;
-            overflow: hidden;
-            z-index: 10;
+        /* ─── COUNTDOWN CARD ─── */
+        .cd-card{
+            background:rgba(22,27,39,0.92);
+            border:1px solid var(--bdr);border-radius:6px;
+            padding:28px 52px 22px;margin-bottom:32px;
+            position:relative;display:inline-flex;flex-direction:column;align-items:center;
         }
-        .ticker-track {
-            display: flex;
-            width: max-content;
-            animation: ticker 22s linear infinite;
+        .cd-card::before,.cd-card::after{
+            content:'';position:absolute;
+            width:16px;height:16px;
+            border-color:var(--red);border-style:solid;
         }
-        .ticker-track span {
-            font-family: 'Rajdhani', sans-serif;
-            font-size: 13px;
-            font-weight: 700;
-            color: #fff;
-            letter-spacing: 2px;
-            text-transform: uppercase;
-            padding: 0 60px;
+        .cd-card::before{top:-1px;left:-1px;border-width:2px 0 0 2px;}
+        .cd-card::after{bottom:-1px;right:-1px;border-width:0 2px 2px 0;}
+
+        .be-patient{
+            font-family:'Rajdhani',sans-serif;
+            font-size:20px;font-weight:700;
+            letter-spacing:4px;text-transform:uppercase;color:var(--gold);
+            animation:blink 2.6s ease-in-out infinite;margin-bottom:10px;
         }
-        .ticker-track span::before {
-            content: '⬥ ';
-            color: var(--naftal-gold);
+        @keyframes blink{0%,100%{opacity:1}50%{opacity:0.4}}
+
+        .cd-lbl{
+            font-size:11px;letter-spacing:2px;text-transform:uppercase;
+            color:var(--muted);margin-bottom:5px;
         }
-        @keyframes ticker {
-            from { transform: translateX(0); }
-            to   { transform: translateX(-50%); }
+        .cd-num{
+            font-family:'Rajdhani',sans-serif;
+            font-size:82px;font-weight:700;color:#fff;line-height:1;
+            text-shadow:0 0 32px rgba(192,57,43,0.75);
+        }
+        .progress-wrap{
+            width:100%;height:3px;
+            background:rgba(255,255,255,0.06);
+            border-radius:2px;margin:18px 0 14px;overflow:hidden;
+        }
+        .progress-fill{
+            height:100%;
+            background:linear-gradient(90deg,var(--red),var(--gold));
+            transform-origin:left;
+            animation:drain 15s linear forwards;
+        }
+        @keyframes drain{from{transform:scaleX(1)}to{transform:scaleX(0)}}
+
+        /* ─── BUTTON ─── */
+        .go-btn{
+            display:inline-flex;align-items:center;gap:10px;
+            background:var(--red);color:#fff;
+            font-family:'Rajdhani',sans-serif;
+            font-size:15px;font-weight:700;
+            letter-spacing:2px;text-transform:uppercase;
+            padding:15px 40px;border-radius:4px;
+            text-decoration:none;
+            transition:background 0.2s,transform 0.15s,box-shadow 0.2s;
+            animation:btnPulse 2.4s ease-in-out infinite;
+        }
+        .go-btn:hover{
+            background:var(--red2);transform:translateY(-2px);
+            box-shadow:0 8px 28px rgba(192,57,43,0.5);
+            animation:none;
+        }
+        @keyframes btnPulse{
+            0%,100%{box-shadow:0 0 0 0 rgba(192,57,43,0.5)}
+            50%{box-shadow:0 0 0 10px rgba(192,57,43,0)}
         }
 
-        /* ── Main card ── */
-        .card {
-            position: relative;
-            z-index: 5;
-            background: rgba(22, 33, 62, 0.85);
-            border: 1px solid rgba(192, 57, 43, 0.4);
-            border-radius: 4px;
-            padding: 52px 64px 44px;
-            text-align: center;
-            max-width: 540px;
-            width: 90%;
-            backdrop-filter: blur(12px);
-            box-shadow:
-                0 0 0 1px rgba(192,57,43,0.15),
-                0 32px 80px rgba(0,0,0,0.5),
-                inset 0 1px 0 rgba(255,255,255,0.05);
-            animation: cardIn 0.8s cubic-bezier(0.22,1,0.36,1) both;
+        /* ─── SECTION ─── */
+        .section{
+            position:relative;z-index:1;
+            max-width:1080px;margin:0 auto;
+            padding:64px 24px;
         }
-        @keyframes cardIn {
-            from { opacity: 0; transform: translateY(30px) scale(0.97); }
-            to   { opacity: 1; transform: translateY(0)    scale(1);    }
+        .sec-title{
+            font-family:'Rajdhani',sans-serif;
+            font-size:clamp(20px,3vw,28px);font-weight:700;
+            letter-spacing:2px;text-transform:uppercase;
+            color:#fff;margin-bottom:6px;
         }
+        .sec-title span{color:var(--red);}
+        .sec-sub{
+            font-size:13px;color:var(--muted);
+            letter-spacing:1px;margin-bottom:36px;
+        }
+        .hr{border:none;border-top:1px solid rgba(192,57,43,0.1);margin:0;}
 
-        /* corner accents */
-        .card::before, .card::after {
-            content: '';
-            position: absolute;
-            width: 20px; height: 20px;
-            border-color: var(--naftal-red);
-            border-style: solid;
+        /* ─── FEATURES GRID ─── */
+        .feat-grid{
+            display:grid;
+            grid-template-columns:repeat(auto-fit,minmax(224px,1fr));
+            gap:16px;
         }
-        .card::before { top: -1px; left: -1px; border-width: 2px 0 0 2px; }
-        .card::after  { bottom: -1px; right: -1px; border-width: 0 2px 2px 0; }
+        .feat-card{
+            background:var(--card);border:1px solid var(--bdr);
+            border-radius:6px;padding:26px 22px;
+            position:relative;overflow:hidden;
+            transition:border-color .25s,transform .2s;
+        }
+        .feat-card:hover{border-color:rgba(192,57,43,0.7);transform:translateY(-3px);}
+        .feat-card::before{
+            content:'';position:absolute;
+            top:0;left:0;right:0;height:2px;
+            background:linear-gradient(90deg,var(--red),transparent);
+        }
+        .feat-icon{font-size:28px;margin-bottom:12px;display:block;}
+        .feat-title{
+            font-family:'Rajdhani',sans-serif;
+            font-size:15px;font-weight:700;
+            letter-spacing:1.5px;text-transform:uppercase;
+            color:#fff;margin-bottom:7px;
+        }
+        .feat-desc{font-size:13px;line-height:1.65;color:var(--muted);}
 
-        /* ── Logo area ── */
-        .logo-wrap {
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            gap: 14px;
-            margin-bottom: 28px;
+        /* ─── AI BANNER ─── */
+        .ai-wrap{
+            background:linear-gradient(135deg,rgba(26,188,156,0.07),rgba(192,57,43,0.07));
+            border:1px solid rgba(26,188,156,0.22);
+            border-radius:8px;padding:40px;
+            display:flex;flex-wrap:wrap;align-items:flex-start;gap:32px;
+            position:relative;overflow:hidden;
         }
-        .logo-icon {
-            width: 52px; height: 52px;
-            background: var(--naftal-red);
-            border-radius: 3px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-family: 'Rajdhani', sans-serif;
-            font-size: 22px;
-            font-weight: 700;
-            color: #fff;
-            letter-spacing: 1px;
-            box-shadow: 0 0 20px rgba(192,57,43,0.5);
-            animation: iconGlow 2s ease-in-out infinite alternate;
+        .ai-wrap::after{
+            content:'AI';
+            position:absolute;right:-8px;top:-16px;
+            font-family:'Rajdhani',sans-serif;
+            font-size:130px;font-weight:700;
+            color:rgba(26,188,156,0.04);
+            pointer-events:none;line-height:1;
         }
-        @keyframes iconGlow {
-            from { box-shadow: 0 0 12px rgba(192,57,43,0.4); }
-            to   { box-shadow: 0 0 28px rgba(192,57,43,0.9); }
+        .ai-left{flex:1;min-width:220px;}
+        .ai-badge{
+            display:inline-flex;align-items:center;gap:8px;
+            background:rgba(26,188,156,0.1);
+            border:1px solid rgba(26,188,156,0.28);
+            border-radius:3px;padding:4px 12px;
+            font-family:'Rajdhani',sans-serif;
+            font-size:11px;font-weight:700;
+            letter-spacing:2px;text-transform:uppercase;
+            color:var(--teal);margin-bottom:16px;
         }
-        .logo-text {
-            font-family: 'Rajdhani', sans-serif;
-            font-size: 26px;
-            font-weight: 700;
-            color: #fff;
-            letter-spacing: 3px;
-            text-transform: uppercase;
+        .ai-dot{
+            width:7px;height:7px;border-radius:50%;
+            background:var(--teal);
+            animation:dotPop 1.2s ease-in-out infinite;
         }
-        .logo-text span { color: var(--naftal-red); }
+        @keyframes dotPop{0%,100%{transform:scale(1);opacity:1}50%{transform:scale(1.6);opacity:0.4}}
+        .ai-title{
+            font-family:'Rajdhani',sans-serif;
+            font-size:24px;font-weight:700;
+            color:#fff;letter-spacing:1px;margin-bottom:10px;
+        }
+        .ai-desc{font-size:13px;color:var(--muted);line-height:1.75;}
+        .ai-right{
+            flex:1;min-width:220px;
+            background:rgba(13,17,23,0.65);
+            border:1px solid rgba(26,188,156,0.13);
+            border-radius:6px;padding:22px;
+        }
+        .ai-step{display:flex;align-items:flex-start;gap:14px;margin-bottom:16px;}
+        .ai-step:last-child{margin-bottom:0;}
+        .snum{
+            min-width:26px;height:26px;border-radius:50%;
+            background:rgba(26,188,156,0.12);
+            border:1px solid rgba(26,188,156,0.28);
+            display:flex;align-items:center;justify-content:center;
+            font-family:'Rajdhani',sans-serif;
+            font-size:12px;font-weight:700;color:var(--teal);flex-shrink:0;
+        }
+        .stxt{font-size:13px;color:var(--muted);line-height:1.55;}
+        .stxt strong{color:#fff;font-size:14px;display:block;margin-bottom:2px;}
 
-        /* ── Divider ── */
-        .divider {
-            width: 60px; height: 2px;
-            background: linear-gradient(90deg, transparent, var(--naftal-red), transparent);
-            margin: 0 auto 28px;
+        /* ─── ROLES ─── */
+        .roles-grid{
+            display:grid;
+            grid-template-columns:repeat(auto-fit,minmax(256px,1fr));
+            gap:18px;
         }
+        .role-card{
+            background:var(--card);border:1px solid var(--bdr);
+            border-radius:6px;padding:28px 26px;
+            transition:border-color .25s,transform .2s;
+        }
+        .role-card:hover{border-color:rgba(192,57,43,0.7);transform:translateY(-3px);}
+        .role-card.adm{border-color:rgba(52,152,219,0.28);}
+        .role-card.adm:hover{border-color:rgba(52,152,219,0.75);}
+        .rbadge{
+            display:inline-block;padding:3px 10px;border-radius:3px;
+            font-family:'Rajdhani',sans-serif;
+            font-size:11px;font-weight:700;
+            letter-spacing:2px;text-transform:uppercase;margin-bottom:12px;
+        }
+        .b-emp{background:rgba(192,57,43,0.12);color:var(--red);border:1px solid rgba(192,57,43,0.28);}
+        .b-ing{background:rgba(243,156,18,0.10);color:var(--gold);border:1px solid rgba(243,156,18,0.28);}
+        .b-adm{background:rgba(52,152,219,0.10);color:var(--blue);border:1px solid rgba(52,152,219,0.28);}
+        .rname{
+            font-family:'Rajdhani',sans-serif;
+            font-size:22px;font-weight:700;
+            color:#fff;letter-spacing:1px;margin-bottom:14px;
+        }
+        .rlist{list-style:none;display:flex;flex-direction:column;gap:8px;}
+        .rlist li{
+            font-size:13px;color:var(--muted);
+            display:flex;align-items:flex-start;gap:9px;line-height:1.5;
+        }
+        .rlist li::before{
+            content:'›';color:var(--red);font-size:16px;
+            font-weight:700;line-height:1.2;flex-shrink:0;
+        }
+        .role-card.adm .rlist li::before{color:var(--blue);}
 
-        /* ── Be patient message ── */
-        .be-patient {
-            font-family: 'Rajdhani', sans-serif;
-            font-size: 22px;
-            font-weight: 700;
-            color: var(--naftal-gold);
-            letter-spacing: 4px;
-            text-transform: uppercase;
-            margin-bottom: 10px;
-            animation: blink 2.5s ease-in-out infinite;
+        /* ─── FOOTER ─── */
+        .footer{
+            position:relative;z-index:1;
+            text-align:center;padding:20px 24px 28px;
         }
-        @keyframes blink {
-            0%, 100% { opacity: 1; }
-            50%       { opacity: 0.5; }
-        }
-
-        /* ── Countdown text ── */
-        .countdown-label {
-            font-size: 13px;
-            color: rgba(236,240,241,0.5);
-            letter-spacing: 2px;
-            text-transform: uppercase;
-            margin-bottom: 18px;
-        }
-
-        .countdown-number {
-            font-family: 'Rajdhani', sans-serif;
-            font-size: 72px;
-            font-weight: 700;
-            color: #fff;
-            line-height: 1;
-            margin-bottom: 6px;
-            text-shadow: 0 0 30px rgba(192,57,43,0.7);
-            animation: numPop 1s ease-in-out;
-        }
-
-        /* ── Progress bar ── */
-        .progress-track {
-            width: 100%;
-            height: 3px;
-            background: rgba(255,255,255,0.07);
-            border-radius: 2px;
-            margin: 28px 0 22px;
-            overflow: hidden;
-        }
-        .progress-fill {
-            height: 100%;
-            width: 100%;
-            background: linear-gradient(90deg, var(--naftal-red), var(--naftal-gold));
-            border-radius: 2px;
-            transform-origin: left;
-            animation: progressBar 5s linear forwards;
-        }
-        @keyframes progressBar {
-            from { transform: scaleX(1); }
-            to   { transform: scaleX(0); }
-        }
-
-        /* ── Destination info ── */
-        .destination {
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            gap: 8px;
-            font-size: 12px;
-            color: rgba(236,240,241,0.4);
-            letter-spacing: 1px;
-            text-transform: uppercase;
-        }
-        .destination .dot {
-            width: 6px; height: 6px;
-            border-radius: 50%;
-            background: var(--naftal-red);
-            animation: dotPulse 1.2s ease-in-out infinite;
-        }
-        @keyframes dotPulse {
-            0%, 100% { transform: scale(1); opacity: 1; }
-            50%       { transform: scale(1.6); opacity: 0.5; }
-        }
-
-        /* ── Bottom ticker ── */
-        .ticker-wrap.bottom {
-            top: auto;
-            bottom: 0;
-            background: rgba(192,57,43,0.15);
-            border-top: 1px solid rgba(192,57,43,0.2);
-        }
-        .ticker-wrap.bottom .ticker-track {
-            animation-direction: reverse;
-        }
-        .ticker-wrap.bottom .ticker-track span {
-            color: rgba(236,240,241,0.5);
-            font-size: 11px;
-        }
-
-        /* ── Copyright ── */
-        .copyright {
-            position: fixed;
-            bottom: 36px;
-            left: 50%;
-            transform: translateX(-50%);
-            font-size: 11px;
-            color: rgba(236,240,241,0.25);
-            letter-spacing: 1.5px;
-            text-transform: uppercase;
-            white-space: nowrap;
-            z-index: 20;
+        .copy{
+            font-size:11px;color:rgba(205,209,222,0.2);
+            letter-spacing:1.5px;text-transform:uppercase;
         }
     </style>
 </head>
 <body>
 
-    <!-- Top ticker -->
-    <div class="ticker-wrap">
-        <div class="ticker-track">
-            <span>Naftal Support Project</span>
-            <span>Système d'assistance technique</span>
-            <span>HelpDesk Naftal</span>
-            <span>Redirection en cours</span>
-            <span>Naftal Support Project</span>
-            <span>Système d'assistance technique</span>
-            <span>HelpDesk Naftal</span>
-            <span>Redirection en cours</span>
-        </div>
+<!-- TOP TICKER -->
+<div class="ticker">
+    <div class="ticker-inner">
+        <span>Naftal Support Project</span>
+        <span>Assistance Technique</span>
+        <span>Gestion des Tickets</span>
+        <span>Intelligence Artificielle</span>
+        <span>Rôles : Employé · Ingénieur · Administrateur</span>
+        <span>Réponse Automatique IA</span>
+        <span>HelpDesk Naftal</span>
+        <span>Naftal Support Project</span>
+        <span>Assistance Technique</span>
+        <span>Gestion des Tickets</span>
+        <span>Intelligence Artificielle</span>
+        <span>Rôles : Employé · Ingénieur · Administrateur</span>
+        <span>Réponse Automatique IA</span>
+        <span>HelpDesk Naftal</span>
     </div>
+</div>
 
-    <div class="glow-ring"></div>
+<!-- ══════════ HERO ══════════ -->
+<div class="hero">
+    <div class="logo-row">
+        <div class="logo-box">N</div>
+        <div class="logo-label">Naftal <em>HelpDesk</em></div>
+    </div>
+    <div class="tagline">Système d'assistance technique interne</div>
+    <h1 class="hero-title">Bienvenue sur le<br><span>Naftal Support Project</span></h1>
+    <p class="hero-sub">
+        Une plateforme centralisée de gestion des incidents et demandes d'assistance,
+        enrichie par l'intelligence artificielle pour des réponses rapides et efficaces.
+    </p>
 
-    <div class="card">
-        <div class="logo-wrap">
-            <div class="logo-icon">N</div>
-            <div class="logo-text">Naftal <span>HelpDesk</span></div>
-        </div>
-        <div class="divider"></div>
-
+    <div class="cd-card">
         <div class="be-patient">Be Patient…</div>
-        <div class="countdown-label">Redirection automatique dans</div>
-        <div class="countdown-number" id="num">5</div>
-        <div class="countdown-label">seconde(s)</div>
-
-        <div class="progress-track">
-            <div class="progress-fill"></div>
-        </div>
-
-        <div class="destination">
-            <span class="dot"></span>
-            <span>Naftal Support Project</span>
-        </div>
+        <div class="cd-lbl">Redirection automatique dans</div>
+        <div class="cd-num" id="cdNum">15</div>
+        <div class="cd-lbl">seconde(s)</div>
+        <div class="progress-wrap"><div class="progress-fill"></div></div>
     </div>
 
-    <!-- Bottom ticker -->
-    <div class="ticker-wrap bottom">
-        <div class="ticker-track">
-            <span>Naftal Support Project</span>
-            <span>Portail d'assistance</span>
-            <span>Gestion des incidents</span>
-            <span>Suivi des tickets</span>
-            <span>Naftal Support Project</span>
-            <span>Portail d'assistance</span>
-            <span>Gestion des incidents</span>
-            <span>Suivi des tickets</span>
+    <a href="http://161.97.108.74/Naftal-HelpDesk/public/" class="go-btn">
+        Accéder maintenant &nbsp;→
+    </a>
+</div>
+
+<hr class="hr">
+
+<!-- ══════════ FEATURES ══════════ -->
+<div class="section">
+    <div class="sec-title">Fonctionnalités <span>Clés</span></div>
+    <div class="sec-sub">Tout ce dont vous avez besoin pour gérer les incidents efficacement</div>
+    <div class="feat-grid">
+        <div class="feat-card">
+            <span class="feat-icon">🎫</span>
+            <div class="feat-title">Création de Tickets</div>
+            <div class="feat-desc">Soumettez un incident ou une demande en quelques clics avec description, priorité et pièces jointes.</div>
+        </div>
+        <div class="feat-card">
+            <span class="feat-icon">🔄</span>
+            <div class="feat-title">Suivi en Temps Réel</div>
+            <div class="feat-desc">Suivez l'état de vos tickets (Ouvert, En cours, Résolu, Fermé) et recevez des notifications à chaque mise à jour.</div>
+        </div>
+        <div class="feat-card">
+            <span class="feat-icon">📊</span>
+            <div class="feat-title">Tableau de Bord</div>
+            <div class="feat-desc">Visualisez les statistiques des incidents, taux de résolution et performances de l'équipe en un coup d'œil.</div>
+        </div>
+        <div class="feat-card">
+            <span class="feat-icon">🔔</span>
+            <div class="feat-title">Notifications</div>
+            <div class="feat-desc">Alertes automatiques à chaque changement de statut, commentaire ou escalade sur un ticket.</div>
+        </div>
+        <div class="feat-card">
+            <span class="feat-icon">💬</span>
+            <div class="feat-title">Messagerie Intégrée</div>
+            <div class="feat-desc">Communiquez directement sur chaque ticket avec les ingénieurs assignés sans quitter la plateforme.</div>
+        </div>
+        <div class="feat-card">
+            <span class="feat-icon">📁</span>
+            <div class="feat-title">Historique Complet</div>
+            <div class="feat-desc">Accédez à l'historique de tous vos tickets, solutions appliquées et échanges pour référence future.</div>
         </div>
     </div>
+</div>
 
-    <div class="copyright">© 2025 Oualid Hamri — Demo Templates</div>
+<hr class="hr">
 
-    <script>
-        let seconds = 5;
-        const num = document.getElementById("num");
+<!-- ══════════ AI ══════════ -->
+<div class="section">
+    <div class="sec-title">Intelligence <span>Artificielle</span></div>
+    <div class="sec-sub">Le cœur technologique du système de support</div>
+    <div class="ai-wrap">
+        <div class="ai-left">
+            <div class="ai-badge">
+                <span class="ai-dot"></span>
+                IA Intégrée
+            </div>
+            <div class="ai-title">Réponse Automatique<br>par Intelligence Artificielle</div>
+            <p class="ai-desc">
+                Dès la création d'un ticket, le moteur d'IA analyse automatiquement
+                le contenu et propose une <strong>solution immédiate</strong> basée sur
+                la base de connaissances Naftal. L'ingénieur peut ensuite valider,
+                modifier ou compléter la réponse générée, réduisant drastiquement
+                le temps de résolution.
+            </p>
+        </div>
+        <div class="ai-right">
+            <div class="ai-step">
+                <div class="snum">1</div>
+                <div class="stxt">
+                    <strong>Ticket soumis</strong>
+                    L'employé décrit son problème et soumet le ticket.
+                </div>
+            </div>
+            <div class="ai-step">
+                <div class="snum">2</div>
+                <div class="stxt">
+                    <strong>Analyse IA instantanée</strong>
+                    Le système analyse le texte et identifie la catégorie du problème.
+                </div>
+            </div>
+            <div class="ai-step">
+                <div class="snum">3</div>
+                <div class="stxt">
+                    <strong>Solution proposée</strong>
+                    Une réponse automatique avec solution est générée et affichée immédiatement.
+                </div>
+            </div>
+            <div class="ai-step">
+                <div class="snum">4</div>
+                <div class="stxt">
+                    <strong>Validation Ingénieur</strong>
+                    L'ingénieur confirme ou affine la réponse avant clôture du ticket.
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
-        const countdown = setInterval(() => {
-            seconds--;
-            num.style.animation = 'none';
-            void num.offsetWidth; // reflow to restart animation
-            num.style.animation = 'numPop 0.4s ease-out';
-            num.textContent = seconds;
+<hr class="hr">
 
-            if (seconds <= 0) {
-                clearInterval(countdown);
-                window.location.href = "http://161.97.108.74/Naftal-HelpDesk/public/";
-            }
-        }, 1000);
-    </script>
+<!-- ══════════ ROLES ══════════ -->
+<div class="section">
+    <div class="sec-title">Rôles &amp; <span>Accès</span></div>
+    <div class="sec-sub">Trois profils utilisateurs avec des droits adaptés à chaque responsabilité</div>
+    <div class="roles-grid">
+
+        <div class="role-card">
+            <span class="rbadge b-emp">Rôle 01</span>
+            <div class="rname">👤 Employé</div>
+            <ul class="rlist">
+                <li>Créer et soumettre des tickets d'incident</li>
+                <li>Suivre l'état de ses propres tickets</li>
+                <li>Consulter la réponse automatique IA</li>
+                <li>Communiquer avec l'ingénieur assigné</li>
+                <li>Évaluer la qualité de la résolution</li>
+                <li>Accéder à l'historique de ses tickets</li>
+            </ul>
+        </div>
+
+        <div class="role-card">
+            <span class="rbadge b-ing">Rôle 02</span>
+            <div class="rname">🔧 Ingénieur</div>
+            <ul class="rlist">
+                <li>Consulter tous les tickets qui lui sont assignés</li>
+                <li>Valider ou modifier les réponses proposées par l'IA</li>
+                <li>Mettre à jour le statut des tickets</li>
+                <li>Ajouter des commentaires et solutions techniques</li>
+                <li>Escalader vers l'administrateur si nécessaire</li>
+                <li>Accéder aux rapports de son périmètre</li>
+            </ul>
+        </div>
+
+        <div class="role-card adm">
+            <span class="rbadge b-adm">Rôle 03</span>
+            <div class="rname">🛡️ Administrateur</div>
+            <ul class="rlist">
+                <li>Gérer les comptes et les rôles utilisateurs</li>
+                <li>Superviser l'ensemble des tickets et incidents</li>
+                <li>Configurer les catégories, priorités et SLA</li>
+                <li>Accéder aux tableaux de bord analytiques complets</li>
+                <li>Gérer et enrichir la base de connaissances IA</li>
+                <li>Paramétrer les règles d'escalade automatique</li>
+            </ul>
+        </div>
+
+    </div>
+</div>
+
+<!-- FOOTER -->
+<div class="footer">
+    <div class="copy">© 2025 Oualid Hamri — Demo Templates &nbsp;|&nbsp; Naftal HelpDesk Support Project</div>
+</div>
+
+<script>
+    let s = 15;
+    const el = document.getElementById('cdNum');
+    const t = setInterval(() => {
+        s--;
+        el.textContent = s;
+        if (s <= 0) {
+            clearInterval(t);
+            window.location.href = 'http://161.97.108.74/Naftal-HelpDesk/public/';
+        }
+    }, 1000);
+</script>
 </body>
 </html>
